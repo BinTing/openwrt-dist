@@ -1,0 +1,1126 @@
+Package: ChinaDNS
+Version: 1.3.3-1
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 36260
+Filename: ChinaDNS_1.3.3-1_mipsel_24kc.ipk
+Size: 35876
+SHA256sum: 4f1b92a2b5a5d8f35caea44217b4a46043f642469ab0fb428a5ae4ed7e01f3c8
+Description:  Protect yourself against DNS poisoning in China.
+
+Package: agetty
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 19710
+Filename: agetty_2.34-1_mipsel_24kc.ipk
+Size: 20435
+SHA256sum: 423c1c01492f38fd94288a2eeb4522ab8598e66eff4cbd91d7b8737b4c30340a
+Description:  agetty opens a tty port, prompts for a login name and invokes the
+ /bin/login command
+
+Package: blkdiscard
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 8248
+Filename: blkdiscard_2.34-1_mipsel_24kc.ipk
+Size: 9154
+SHA256sum: 4ffdb3f068e5d0bb0a634a76743efff7da948158a448ce6d12decd22c21f98dd
+Description:  The blkdiscard is used to discard device sectors. This is useful for
+ solid-state drivers (SSDs) and thinly-provisioned storage. Unlike fstrim,
+ this command is used directly on the block device.
+
+Package: blkid
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 35981
+Filename: blkid_2.34-1_mipsel_24kc.ipk
+Size: 36736
+SHA256sum: a767ab187be8cca3fca9abebcd2774812be1102d553491fe80870d47b23fcb32
+Description:  The blkid program is the command-line interface to working with the libblkid
+ library.
+
+Package: blockdev
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 17323
+Filename: blockdev_2.34-1_mipsel_24kc.ipk
+Size: 18114
+SHA256sum: 90668bdec950d96f43bdf4ea1c64eb76cce98c9e78619f86efd61a647e7b2bbe
+Description:  The blockdev program is the command-line interface to call block device ioctls.
+
+Package: bzip2
+Version: 1.0.8-1
+Depends: libc, libbz2-1.0
+License: bzip2-1.0.8
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 11641
+Filename: bzip2_1.0.8-1_mipsel_24kc.ipk
+Size: 12446
+SHA256sum: 6d4189f8939274179dc737aaca7a6c252b05dfbe1245efc67a974851ce297eb1
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This package provides the binary.
+
+Package: cal
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 20728
+Filename: cal_2.34-1_mipsel_24kc.ipk
+Size: 21448
+SHA256sum: cb60f4f094d31aa26bfd11321b143ba7127a83d966abeb44a6f51b31232de080
+Description:  cal displays a simple calendar
+
+Package: cfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libncurses6, libsmartcols1, libfdisk1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 31165
+Filename: cfdisk_2.34-1_mipsel_24kc.ipk
+Size: 31853
+SHA256sum: 0efe588c60fe6d5eb40bb97c2383abd91674c2b98480983336a38011a5981653
+Description:  cfdisk is a curses-based program for partitioning any hard disk drive
+
+Package: dmesg
+Version: 2.34-1
+Depends: libc, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 21981
+Filename: dmesg_2.34-1_mipsel_24kc.ipk
+Size: 22718
+SHA256sum: a26161ae7657996b21b21f96a790323b7e25a105b37899faed5d23fb764b67f5
+Description:  dmesg  is used to examine or control the kernel ring buffer
+
+Package: dns-forwarder
+Version: 1.2.1-2
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 8848
+Filename: dns-forwarder_1.2.1-2_mipsel_24kc.ipk
+Size: 9632
+SHA256sum: a6ac6f9b4828ae1aac181a44d8a31bbaf05460f250fa550ca6d1d125a9e58392
+Description:  Forwarding DNS queries on TCP transport.
+
+Package: eject
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 23074
+Filename: eject_2.34-1_mipsel_24kc.ipk
+Size: 23833
+SHA256sum: 0a70c7aefdd1335e9c95eeb4e375b29e816ffc34bea6c2904243f6992d59f33f
+Description:  eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ
+ or ZIP disk) to be ejected under software control.
+
+Package: fdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1, libfdisk1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 46740
+Filename: fdisk_2.34-1_mipsel_24kc.ipk
+Size: 47298
+SHA256sum: 0b15ee004b3fedaaa026af7cb5708e22ef5372adf804576a8ae388a9e947abee
+Description:  a menu-driven program for creation and manipulation of partition tables
+
+Package: findfs
+Version: 2.34-1
+Depends: libc, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 2380
+Filename: findfs_2.34-1_mipsel_24kc.ipk
+Size: 3210
+SHA256sum: 7d019f657e39d8ae97674088478687f80a07141810ffdff5126d566ccdffea60
+Description:  findfs will search the disks in the system looking for a filesystem which has
+ a label matching label or a UUID equal to uuid
+
+Package: flock
+Version: 2.34-1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/flock:/usr/bin/util-linux-flock
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 9109
+Filename: flock_2.34-1_mipsel_24kc.ipk
+Size: 9944
+SHA256sum: 8ba22d38377473dd6b0cc0bc4824d8d647e907112bb3eac1d6d56b59527b355a
+Description:  manages flock locks from within shell scripts or the command line
+
+Package: fstrim
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1, libsmartcols1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 20655
+Filename: fstrim_2.34-1_mipsel_24kc.ipk
+Size: 21494
+SHA256sum: d4a4e3b50b7349ae91e1419c4b314b0c5cf1502c458190bae15ab751319c8668
+Description:  fstrim is used on a mounted filesystem to discard (or "trim") blocks
+ which are not in use by the filesystem.  This is useful for solid-
+ state drives (SSDs) and thinly-provisioned storage.
+
+Package: getopt
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 4341
+Filename: getopt_2.34-1_mipsel_24kc.ipk
+Size: 5136
+SHA256sum: 578288fdaa183b0d1aa8dc937a1d59b71acfefe128a8f60141c3c3504deb73ca
+Description:  getopt is used to break up (parse) options in command lines for easy parsing
+ by shell procedures, and to check for legal options
+
+Package: hwclock
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 30233
+Filename: hwclock_2.34-1_mipsel_24kc.ipk
+Size: 30979
+SHA256sum: 9cf378a31617496c9ef7098cba662cfd322313023916d37c173f13975641b0bc
+Description:  hwclock is a tool for accessing the Hardware Clock
+
+Package: iconv
+Version: 1.11.1-4
+Depends: libc, libiconv-full2, libcharset1
+License: LGPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 10772
+Filename: iconv_1.11.1-4_mipsel_24kc.ipk
+Size: 11532
+SHA256sum: f368970fb67f45cea1db7d0d57037b55ec62e9d3513c04a136502e9221edefe6
+Description:  Character set conversion utility
+
+Package: libblkid1
+Version: 2.34-1
+Depends: libc, libuuid1
+Provides: libblkid
+License: GPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 118669
+Filename: libblkid1_2.34-1_mipsel_24kc.ipk
+Size: 119512
+SHA256sum: 305b5bd3e287fbabb286a630469909eb95c9769d49d62946eb2d9d18a10b3b43
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+License: bzip2-1.0.8
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 23011
+Filename: libbz2-1.0_1.0.8-1_mipsel_24kc.ipk
+Size: 23752
+SHA256sum: 99211f6d0f0e0bff527c5a34b05858a6e2c78d1b665ca3455a85d8b2fe6b528b
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This packages provides libbz2 library.
+
+Package: libcharset1
+Version: 1.11.1-4
+Depends: libc
+Provides: libcharset
+License: LGPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 2375
+Filename: libcharset1_1.11.1-4_mipsel_24kc.ipk
+Size: 3145
+SHA256sum: 910bb7d738024a494a3fcf82f5ec87f769ce5fdb202d1a1b6592baa1f9514ccd
+Description:  Character set conversion library
+
+Package: libfdisk1
+Version: 2.34-1
+Depends: libc, libuuid1, libblkid1
+Provides: libfdisk
+License: GPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 151666
+Filename: libfdisk1_2.34-1_mipsel_24kc.ipk
+Size: 152459
+SHA256sum: 3cb8cbe650ae3a20ab235030783ea2425e349c45b59bb886a906c0f8bd47c0ec
+Description:  The libfdisk library is used for manipulating with partition tables.
+
+Package: libiconv-full2
+Version: 1.11.1-4
+Depends: libc
+Provides: libiconv-full
+License: LGPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 10966
+Filename: libiconv-full2_1.11.1-4_mipsel_24kc.ipk
+Size: 11710
+SHA256sum: cfbd7bdaacbc9d6a3a9e6e046e6657d33d5acb7c0f1cae9945837b18f839c10d
+Description:  Character set conversion library
+
+Package: libiconv
+Version: 8
+Depends: libc
+License: LGPL-2.1
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 161
+Filename: libiconv_8_mipsel_24kc.ipk
+Size: 896
+SHA256sum: dcd968faa63fff0242fbe62e19b4172008d150c192be98d80478194fa9a0d3be
+Description:  Tiny drop-in replacement for the GNU Character set conversion library
+
+Package: libintl-full8
+Version: 0.19.8.1-2
+Depends: libc
+Provides: libintl-full
+License: GPL-3.0+
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 14924
+Filename: libintl-full8_0.19.8.1-2_mipsel_24kc.ipk
+Size: 15630
+SHA256sum: 1a82f3aa31e89449c435e9cf799c70fca9f08edd5dc27e7f75a0ff1b39c97f37
+Description:  GNU Internationalization library
+
+Package: libintl
+Version: 2
+Depends: libc
+License: FSFULLR
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 160
+Filename: libintl_2_mipsel_24kc.ipk
+Size: 893
+SHA256sum: 13a6bad3bd27a06a8565d8438c8f02b533c261dbd43c40c976fcc1f53c74975e
+Description:  Stub header for the GNU Internationalization library
+
+Package: libmbedtls12
+Version: 2.16.4-1
+Depends: libc
+Provides: libmbedtls
+License: GPL-2.0+
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 176428
+Filename: libmbedtls12_2.16.4-1_mipsel_24kc.ipk
+Size: 176966
+SHA256sum: 5e16177e8c0f8a670096c221b44ead5319cba86111b540eb89be812382d5ca5c
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libmount1
+Version: 2.34-1
+Depends: libc, libblkid1
+Provides: libmount
+License: GPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 120713
+Filename: libmount1_2.34-1_mipsel_24kc.ipk
+Size: 121561
+SHA256sum: 0b7a46d183a87a903b6de78712806e36b0a5bbfd6a9299eb05cc7349277bf403
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...
+
+Package: libncurses-dev
+Version: 6.1-5
+Depends: libc, zlib
+License: MIT
+Section: devel
+Architecture: mipsel_24kc
+Installed-Size: 258119
+Filename: libncurses-dev_6.1-5_mipsel_24kc.ipk
+Size: 256726
+SHA256sum: 56085757d984f10d8ca090fe2b892c3b445c34894be9a4d42ae91d2547e8270c
+Description:  Development files for the ncurses library
+
+Package: libncurses6
+Version: 6.1-5
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+License: MIT
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 147431
+Filename: libncurses6_6.1-5_mipsel_24kc.ipk
+Size: 146163
+SHA256sum: 7e5ca2fdfe9eeddf34fe23f45990d59c0217f1f11825a5b354215bad17b0eedd
+Description:  Terminal handling library (Unicode)
+
+Package: libopenssl-conf
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1
+License: OpenSSL
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 4550
+Filename: libopenssl-conf_1.1.1d-2_mipsel_24kc.ipk
+Size: 5493
+SHA256sum: acb49a7ce74c5b4794e28be118cc5f1ea3f1e12574615d91a3c860b667b697d0
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package installs the OpenSSL configuration file /etc/ssl/openssl.cnf.
+
+Package: libopenssl-devcrypto
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, kmod-cryptodev, libopenssl-conf
+License: OpenSSL
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 7733
+Filename: libopenssl-devcrypto_1.1.1d-2_mipsel_24kc.ipk
+Size: 8692
+SHA256sum: debaf56ae7cf7defe9e298e233df12587ca34c00b7192254123aa12c4b595fcb
+Description:  This package adds an engine that enables hardware acceleration
+ through the /dev/crypto kernel interface.
+ To use it, you need to configure the engine in /etc/ssl/openssl.cnf
+ See https://www.openssl.org/docs/man1.1.1/man5/config.html#Engine-Configuration-Module
+ and https://openwrt.org/docs/techref/hardware/cryptographic.hardware.accelerators
+ The engine_id is "devcrypto"
+
+Package: libopenssl1.1
+Version: 1.1.1d-2
+Depends: libc
+Provides: libopenssl
+License: OpenSSL
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 979697
+Filename: libopenssl1.1_1.1.1d-2_mipsel_24kc.ipk
+Size: 970592
+SHA256sum: c3104c85b94d9dcafa5a115a37834d023c057caac4318c4b1e0f9941136cfdc0
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL shared libraries, needed by other programs.
+
+Package: libreadline8
+Version: 8.0-1
+Depends: libc, libncursesw6
+Provides: libreadline
+License: GPL-3.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 106898
+Filename: libreadline8_8.0-1_mipsel_24kc.ipk
+Size: 107208
+SHA256sum: a764907490a285c442d5cea3fd9c0aedb644e821f1b7fe9602b7614965dd0e36
+Description:  The Readline library provides a set of functions for use by applications
+ that allow users to edit command lines as they are typed in. Both Emacs
+ and vi editing modes are available. The Readline library includes
+ additional functions to maintain a list of previously-entered command
+ lines, to recall and perhaps reedit those lines, and perform csh-like
+ history expansion on previous commands.
+
+Package: libsmartcols1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libsmartcols
+License: GPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 76421
+Filename: libsmartcols1_2.34-1_mipsel_24kc.ipk
+Size: 77256
+SHA256sum: 5d372c3508f9242ae1102d972f61813b420c66ef763588643d36d9bb796e3d86
+Description:  The smartcols library is used to print tables and trees in a pretty way.
+
+Package: libuuid1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libuuid
+License: GPL-2.0
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 12393
+Filename: libuuid1_2.34-1_mipsel_24kc.ipk
+Size: 13313
+SHA256sum: 00f5c8552d56c93b87873d6a7cc42b7bad6e90ce9715c7bf7807c6e2ee54f78e
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logger
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 14457
+Filename: logger_2.34-1_mipsel_24kc.ipk
+Size: 15216
+SHA256sum: 79cc8b1a3cac42dda6c1cf5053cf0d835fdea909b08bd650e19ff33b21689ba5
+Description:  logger makes entries in the system log, it provides a shell command interface
+ to the syslog system log module
+
+Package: look
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 3547
+Filename: look_2.34-1_mipsel_24kc.ipk
+Size: 4308
+SHA256sum: 2899a0ac3895e16803abeecaebcaf4e49a6c6f601cefd5941ff1642ef47ccb2a
+Description:  look utility displays any lines in file which contain string
+
+Package: losetup
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 33648
+Filename: losetup_2.34-1_mipsel_24kc.ipk
+Size: 34559
+SHA256sum: 20ab56dce6533395896850e047b5907b66182bb1c9a1982715ec3694aef213a6
+Description:  losetup is used to associate loop devices with regular files or block devices,
+ to detach loop devices and to query the status of a loop device
+
+Package: lsblk
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 37730
+Filename: lsblk_2.34-1_mipsel_24kc.ipk
+Size: 38559
+SHA256sum: 4194a8409238bd54593169f65d87ab4a0418655d1c98c0f0ca4af2ea01078cc7
+Description:  lsblk lists information about all or the specified block devices
+
+Package: lscpu
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 28375
+Filename: lscpu_2.34-1_mipsel_24kc.ipk
+Size: 29127
+SHA256sum: 827ba707458cbd26a31a379cdf8ab7e3992135669878e1d129f5ea55637262d6
+Description:  lscpu displays information about the CPU architecture
+
+Package: luci-app-chinadns
+Version: 1.6.2-1
+Depends: libc, ChinaDNS
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1643
+Filename: luci-app-chinadns_1.6.2-1_all.ipk
+Size: 2527
+SHA256sum: 0e2e89e050f4956e22ef7ca2f9883ed99a2df727747bc209990978b0a86832d7
+Description:  LuCI Support for ChinaDNS.
+
+Package: luci-app-dns-forwarder
+Version: 1.6.2-1
+Depends: libc, dns-forwarder
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1349
+Filename: luci-app-dns-forwarder_1.6.2-1_all.ipk
+Size: 2250
+SHA256sum: e3b80d6931f8e2c26182ff5c97dbbd261afe2c3fb7e5b2a204c2f2a94d4ccade
+Description:  LuCI Support for Dns-Forwarder.
+
+Package: luci-app-openclash
+Version: 0.36.6-beta
+Depends: libc, iptables, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, jsonfilter, ca-certificates
+Section: opt
+Architecture: all
+Installed-Size: 2840036
+Filename: luci-app-openclash_0.36.6-beta_all.ipk
+Size: 2660482
+SHA256sum: 7dc13cd455eef778b7cf50b9a42fc3619db5db216fe9498f637702d912ace4b1
+Description:  A LuCI support for clash
+
+Package: luci-app-redsocks2
+Version: 1.6.2-1
+Depends: libc, redsocks2
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1530
+Filename: luci-app-redsocks2_1.6.2-1_all.ipk
+Size: 2407
+SHA256sum: 7026c80eaf12f2aae0939ff7d9b0989216021665809d4d70db604a5eecbd7d00
+Description:  LuCI Support for RedSocks2.
+
+Package: luci-app-shadowsocks-without-ipset
+Version: 1.9.1-1
+Depends: libc, iptables
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10294
+Filename: luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk
+Size: 11228
+SHA256sum: 4127ea02dee82cbb3419d525ae8e55fca8cf6e28af78454e1674f76c992a0662
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowsocks
+Version: 1.9.1-1
+Depends: libc, iptables, ipset
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10416
+Filename: luci-app-shadowsocks_1.9.1-1_all.ipk
+Size: 11342
+SHA256sum: 2b0489562692c4fb7b169e2e155dcebf131fb1ba48fe2694e0b3012308b8f2c4
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowvpn
+Version: 1.6.2-1
+Depends: libc, ShadowVPN
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1806
+Filename: luci-app-shadowvpn_1.6.2-1_all.ipk
+Size: 2689
+SHA256sum: 37ccf89c253a1eccf7530a4311ca3c151e6070ccc355463127102414028b15ee
+Description:  LuCI Support for ShadowVPN.
+
+Package: luci-app-smartdns-compat
+Version: 1.2019.28-1
+Depends: libc, luci-compat, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5368
+Filename: luci-app-smartdns-compat_1.2019.28-1_all.ipk
+Size: 6155
+SHA256sum: 96515440e01ef61f60922541219e83422605e32abb62d3f5621671de2abb18e5
+Description:  Provides Luci for smartdns
+
+Package: luci-app-smartdns
+Version: 1.2019.28-1
+Depends: libc, luci-base, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5196
+Filename: luci-app-smartdns_1.2019.28-1_all.ipk
+Size: 6011
+SHA256sum: 772880fd9a5948aa02077be3c97083e88090eaec78129f5acca358b0578a5b9f
+Description:  Provides Luci for smartdns
+
+Package: luci-app-v2ray
+Version: 1.5.3-1
+Depends: libc, jshn, luci-lib-jsonc, ip, ipset, iptables, iptables-mod-tproxy, resolveip, dnsmasq-full
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 84320
+Filename: luci-app-v2ray_1.5.3-1_all.ipk
+Size: 84274
+SHA256sum: 521d43e0a815b67d0c01b8a57fb25d97de74a144df1da1c1fe9e625d2e43837b
+Description:  LuCI support for V2Ray
+
+Package: luci-app-vlmcsd
+Version: 1.0.1-1
+Depends: libc, vlmcsd
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 1625
+Filename: luci-app-vlmcsd_1.0.1-1_all.ipk
+Size: 2472
+SHA256sum: 3c9a2087ac4fc70fed0057593da28446fbe1b83206361ed862b888534c7e1064
+Description:  This package contains LuCI configuration pages for openwrt-vlmcsd.
+
+Package: luci-i18n-smartdns-compat-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns-compat
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3205
+Filename: luci-i18n-smartdns-compat-zh-cn_1.2019.28-1_all.ipk
+Size: 4011
+SHA256sum: 9bb0d2271d61a9bec9611fc591c516eb4b19aa75d861a345ec236cf5d8b8d52a
+Description:  Translation for luci-app-smartdns-compat - 中文 (Chinese)
+
+Package: luci-i18n-smartdns-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3198
+Filename: luci-i18n-smartdns-zh-cn_1.2019.28-1_all.ipk
+Size: 4018
+SHA256sum: 53171f211d710c4f34ba2cf59266b7f89e00c7a7f4eb21847d4279bd329197a9
+Description:  Translation for luci-app-smartdns - 中文 (Chinese)
+
+Package: luci-i18n-v2ray-zh-cn
+Version: 1.5.3-1
+Depends: libc, luci-app-v2ray
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 5931
+Filename: luci-i18n-v2ray-zh-cn_1.5.3-1_all.ipk
+Size: 6711
+SHA256sum: a3d1fd71c3d73d8ad22c4858537fc8d0de63459f4c07933db2fa152f032568bf
+Description:  Translation for luci-app-v2ray - 
+
+Package: mbedtls-util
+Version: 2.16.4-1
+Depends: libc, libmbedtls12
+License: GPL-2.0+
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 6926
+Filename: mbedtls-util_2.16.4-1_mipsel_24kc.ipk
+Size: 7770
+SHA256sum: 3ed328175f66c23adfb9568b1ddd63a57bd81d76de2e851e4bb221033f29de4f
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains mbedtls helper programs for private key and
+ CSR generation (gen_key, cert_req)
+
+Package: mcookie
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 10806
+Filename: mcookie_2.34-1_mipsel_24kc.ipk
+Size: 11596
+SHA256sum: 1109052231882de69d1bbf06ae361da602d967b875cd40fdfb7690a6a5e2b142
+Description:  mcookie generates a 128-bit random hexadecimal number for use with the X
+ authority system
+
+Package: mount-utils
+Version: 2.34-1
+Depends: libc, librt, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 44921
+Filename: mount-utils_2.34-1_mipsel_24kc.ipk
+Size: 45409
+SHA256sum: 100bf0a18de9ee1cc4ba7b1548baa13fdc971e90d20d3a0facdec0eb3b5140e3
+Description:  contains: mount, umount, findmnt
+
+Package: namei
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 9328
+Filename: namei_2.34-1_mipsel_24kc.ipk
+Size: 10167
+SHA256sum: 4f8fea677117880e51afb5079e9a533d037730c3aa14a9d4500bdb66ab96748e
+Description:  namei uses its arguments as pathnames to any type of Unix file (symlinks,
+ files, directories, and so forth)
+
+Package: nsenter
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 9500
+Filename: nsenter_2.34-1_mipsel_24kc.ipk
+Size: 10274
+SHA256sum: 8649042ab75ae91f34e7f8375d8b646ac9831915c2af71e5da2615746177261d
+Description:  run program with namespaces of other processes
+
+Package: openssl-util
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, libopenssl-conf
+License: OpenSSL
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 238776
+Filename: openssl-util_1.1.1d-2_mipsel_24kc.ipk
+Size: 238053
+SHA256sum: 7c1932586fd9299c09f78925f8ad2855354151447e414282e84d348db809a09a
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL command-line utility.
+
+Package: partx-utils
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 39593
+Filename: partx-utils_2.34-1_mipsel_24kc.ipk
+Size: 40408
+SHA256sum: ebc001f1844aa98d66b3df3bd2b1631533beec30a252ef77f23d42a3d8ba745a
+Description:  contains partx, addpart, delpart
+
+Package: prlimit
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 10292
+Filename: prlimit_2.34-1_mipsel_24kc.ipk
+Size: 11112
+SHA256sum: e3568b549eb4c9fa8f848170b56111f69611293b7b33a9bc458991ddafb63dcd
+Description:  Given a process id and one or more resources, prlimit tries to retrieve
+ and/or modify the limits.
+
+Package: rename
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 4209
+Filename: rename_2.34-1_mipsel_24kc.ipk
+Size: 4983
+SHA256sum: d11624fafe9ed980bfc0b69d002b051f91aecc6c03c581dd873f0e8b7328cdf5
+Description:  rename will rename the specified files by replacing the first occurrence of
+ expression in their name by replacement
+
+Package: script-utils
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 18260
+Filename: script-utils_2.34-1_mipsel_24kc.ipk
+Size: 19048
+SHA256sum: 4a06c5a318e2188a7a90ddfabf3995b2a56add7c9d1bb976b01cd22099ab0540
+Description:  contains: script, scriptreplay
+
+Package: setterm
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 13098
+Filename: setterm_2.34-1_mipsel_24kc.ipk
+Size: 13883
+SHA256sum: 6c8756003d39afaa212b84775f637ada5d0ad455d185655fcf36106d64ccb773
+Description:  setterm writes to standard output a character string that will invoke the
+ specified terminal capabilities
+
+Package: sfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libfdisk1, libsmartcols1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 43293
+Filename: sfdisk_2.34-1_mipsel_24kc.ipk
+Size: 43993
+SHA256sum: 9be8ab5f43820485b506095ea772786d9279f859da824aaba85b79d9500a18f4
+Description:  list the size of a partition, list the partitions on a device, check the
+ partitions on a device and repartition a device
+
+Package: shadowsocks-libev-server
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 60742
+Filename: shadowsocks-libev-server_3.3.4-1_mipsel_24kc.ipk
+Size: 61403
+SHA256sum: b636376cb61694b3de4f52d05017bf98bb2889dd22e4294061d6f300dcf5af08
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: shadowsocks-libev
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 156632
+Filename: shadowsocks-libev_3.3.4-1_mipsel_24kc.ipk
+Size: 156472
+SHA256sum: d45f230f34df71c46d4aae57a41b86278812171c6f112b21985087c552af86e2
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: simple-obfs-server
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 29514
+Filename: simple-obfs-server_0.0.5-4_mipsel_24kc.ipk
+Size: 30078
+SHA256sum: 11d3da46232fb446e0f311dcb6a53184c212c4f9f3d6ea030588d1fda024abaa
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: simple-obfs
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 27877
+Filename: simple-obfs_0.0.5-4_mipsel_24kc.ipk
+Size: 28606
+SHA256sum: 52d05fa4af587c333733bf938b567c00a91cf6c0f9a934c0c33d7481c3a0b036
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: smartdns
+Version: 1.2020.28-1
+Depends: libc, libpthread, libopenssl1.1
+License: GPL-3.0-or-later
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 63038
+Filename: smartdns_1.2020.28-1_mipsel_24kc.ipk
+Size: 63994
+SHA256sum: de4ef39390993134db514b671f1a0894368db1b9aff59a8230c6de258cc8976c
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ get DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: swap-utils
+Version: 2.34-1
+Depends: libc, librt, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 35521
+Filename: swap-utils_2.34-1_mipsel_24kc.ipk
+Size: 36309
+SHA256sum: 69d33ce562a964dd05106d885a37f65cd2af7ebf98b15db154f5c747a394931d
+Description:  contains: mkswap, swaplabel
+
+Package: terminfo
+Version: 6.1-5
+Depends: libc
+License: MIT
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 6234
+Filename: terminfo_6.1-5_mipsel_24kc.ipk
+Size: 6884
+SHA256sum: 46c703ef6fe0d051c6f14f9dee43d20757d44ab5a12873f6d2cdd8c6dfbebbee
+Description:  Terminal Info Database (ncurses)
+
+Package: trojan
+Version: 1.14.0-1
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+License: GPL-3.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 972459
+Filename: trojan_1.14.0-1_mipsel_24kc.ipk
+Size: 971875
+SHA256sum: a80b00ee089ddc0250d8e932ba1edf1434a6c148f1a5828c840ee1a057666623
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: uclibcxx
+Version: 0.2.5-3
+Depends: libc
+License: LGPL-2.1-or-later
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 66215
+Filename: uclibcxx_0.2.5-3_mipsel_24kc.ipk
+Size: 66763
+SHA256sum: 17c04bcaa87cc4049582e9aaf38f9ed9b1bbd73dbd28915904ea79e7ce763d87
+Description:  C++ library for embedded systems
+
+Package: unshare
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 11072
+Filename: unshare_2.34-1_mipsel_24kc.ipk
+Size: 11838
+SHA256sum: 3ac3477e5e2e8377050e6864fb314c8e85593b610bdbaad47bcaa200b504824f
+Description:  run programs with some namespaces unshared from parent
+
+Package: uuidd
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 11785
+Filename: uuidd_2.34-1_mipsel_24kc.ipk
+Size: 12708
+SHA256sum: 371ab381e6c6ec0f189a6112d0229f1c4d8626e3838ca1673814ed741690d6d0
+Description:  The uuidd daemon is used by the UUID library to generate universally unique
+ identifiers (UUIDs), especially time-based UUIDs, in a secure and
+ guaranteed-unique fashion, even in the face of large numbers of threads
+ running on different CPUs trying to grab UUIDs.
+
+Package: uuidgen
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 3437
+Filename: uuidgen_2.34-1_mipsel_24kc.ipk
+Size: 4303
+SHA256sum: 3d0ad176976269d2200a25297d3eaa50a6b47d17a43f582ff82e374db32eb147
+Description:  The uuidgen program creates (and prints) a new universally unique identifier
+ (UUID) using the libuuid library. The new UUID can reasonably be considered
+ unique among all UUIDs created on the local system, and among UUIDs created on
+ other systems in the past and in the future.
+
+Package: v2ray-core
+Version: 4.22.1-4
+Depends: libc, ca-certificates
+License: MIT
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 12906860
+Filename: v2ray-core_4.22.1-4_mipsel_24kc.ipk
+Size: 12814737
+SHA256sum: 54e047d830dd6959589e52ad83307a259f7fe831baf08567d5c57911de3afa48
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ 
+ This package contains v2ray, v2ctl and v2ray-assets.
+
+Package: v2ray-plugin
+Version: 1.2.0-2
+Depends: libc
+License: MIT
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 3757657
+Filename: v2ray-plugin_1.2.0-2_mipsel_24kc.ipk
+Size: 3751218
+SHA256sum: 2ba36bb72a859e12a2c63ae5c05eec04f013d5c8c700004aafb8cbabce104fe7
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray
+
+Package: vlmcsd
+Version: svn1112-1
+Depends: libc, libpthread
+License: MIT
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 49266
+Filename: vlmcsd_svn1112-1_mipsel_24kc.ipk
+Size: 49759
+SHA256sum: 96090ecae44a5a0c770b1bd5f0d9f894161e66ecd66d03475a6f71b71f068134
+Description:  vlmcsd is a KMS Emulator in C.
+
+Package: wall
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 9818
+Filename: wall_2.34-1_mipsel_24kc.ipk
+Size: 10613
+SHA256sum: 600e9e8cd41eb11ecbd7468fe0b2fe4eb9009288301bf62bdb85b816d7f93bc9
+Description:  wall sends a message to everybody logged in with their mesg permission
+ set to yes
+
+Package: whereis
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 8189
+Filename: whereis_2.34-1_mipsel_24kc.ipk
+Size: 9011
+SHA256sum: dcd7ed35d7c02341bb63d7a15f3819829b3acfca3a9ef6d3f3a3588fd02ad15d
+Description:  whereis locates source/binary and manuals sections for specified files
+
+Package: wipefs
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 12316
+Filename: wipefs_2.34-1_mipsel_24kc.ipk
+Size: 13172
+SHA256sum: d58fb0528e012607784c7165c5770c14a22cbae91321782b2c9c0422b7a37684
+Description:  wipefs can erase filesystem, raid or partition table signatures (magic
+ strings) from the specified device to make the signature invisible for
+ libblkid.
+
+Package: zlib-dev
+Version: 1.2.11-3
+Depends: libc, zlib
+License: Zlib
+Section: devel
+Architecture: mipsel_24kc
+Installed-Size: 77296
+Filename: zlib-dev_1.2.11-3_mipsel_24kc.ipk
+Size: 78097
+SHA256sum: ab5d0cd0247ca33255c10e334bd636aebee9add51b3af02757d24d2e76b8124a
+Description:  zlib is a lossless data-compression library.
+ This package includes the development support files.
+
+Package: zlib
+Version: 1.2.11-3
+Depends: libc
+License: Zlib
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 37804
+Filename: zlib_1.2.11-3_mipsel_24kc.ipk
+Size: 38587
+SHA256sum: e17778a89f03c28e6d9ae1725cecf2a797f7da219cd1e4caf569deb7cec92713
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+
