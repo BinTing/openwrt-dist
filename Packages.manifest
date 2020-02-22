@@ -1,0 +1,1412 @@
+Package: ChinaDNS
+Version: 1.3.3-1
+Depends: libc
+Source: package/chinadns
+SourceName: ChinaDNS
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 36179
+Filename: ChinaDNS_1.3.3-1_mips_24kc.ipk
+Size: 35762
+SHA256sum: b6f21e004f18872dd23ae9fddd9974d2654780c40527713dd5965edab304eafe
+Description:  Protect yourself against DNS poisoning in China.
+
+Package: agetty
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: agetty
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 19828
+Filename: agetty_2.34-1_mips_24kc.ipk
+Size: 20470
+SHA256sum: 309cb29e8a9bfe3a2320933e9c1a288d4714e8e5655f29fcdf37af5bcb1c9bec
+Description:  agetty opens a tty port, prompts for a login name and invokes the
+ /bin/login command
+
+Package: blkdiscard
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: blkdiscard
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 8281
+Filename: blkdiscard_2.34-1_mips_24kc.ipk
+Size: 9165
+SHA256sum: 5e6c0fae3d439ddd13f1cf60d62422f2af728cc8f8cc7313d5401142bf273b38
+Description:  The blkdiscard is used to discard device sectors. This is useful for
+ solid-state drivers (SSDs) and thinly-provisioned storage. Unlike fstrim,
+ this command is used directly on the block device.
+
+Package: blkid
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: blkid
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 36113
+Filename: blkid_2.34-1_mips_24kc.ipk
+Size: 36756
+SHA256sum: 4e315e51c4edb2839ea18305922aff75c2a3fa65b256149f8b6c78d5a2aafa4d
+Description:  The blkid program is the command-line interface to working with the libblkid
+ library.
+
+Package: blockdev
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: blockdev
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 17406
+Filename: blockdev_2.34-1_mips_24kc.ipk
+Size: 18183
+SHA256sum: 6f4e4d2ae1d5ed41aaea43dda78dddf1767f96a10b7f1499505b69600458a06f
+Description:  The blockdev program is the command-line interface to call block device ioctls.
+
+Package: bzip2
+Version: 1.0.8-1
+Depends: libc, libbz2-1.0
+Source: feeds/base/package/utils/bzip2
+SourceName: bzip2
+License: bzip2-1.0.8
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips_24kc
+Installed-Size: 11644
+Filename: bzip2_1.0.8-1_mips_24kc.ipk
+Size: 12450
+SHA256sum: 240d065b8585d9ec466cbacadfea2b9e9e59b4c71508f2b7456a1188ce30c756
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This package provides the binary.
+
+Package: cal
+Version: 2.34-1
+Depends: libc, libncurses6
+Source: feeds/base/package/utils/util-linux
+SourceName: cal
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 20852
+Filename: cal_2.34-1_mips_24kc.ipk
+Size: 21544
+SHA256sum: 590c117757a3e438393b7d158483152b91e8a4d03c5b30c255865fe1de976738
+Description:  cal displays a simple calendar
+
+Package: cfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libncurses6, libsmartcols1, libfdisk1, libmount1
+Source: feeds/base/package/utils/util-linux
+SourceName: cfdisk
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 31430
+Filename: cfdisk_2.34-1_mips_24kc.ipk
+Size: 31978
+SHA256sum: 105df55167d42a611e96004d2dc6e3443a32349ded61075386b3e00b2979468f
+Description:  cfdisk is a curses-based program for partitioning any hard disk drive
+
+Package: dmesg
+Version: 2.34-1
+Depends: libc, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: dmesg
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 22203
+Filename: dmesg_2.34-1_mips_24kc.ipk
+Size: 22843
+SHA256sum: 7075495cb59ead1ddd2281fb00507212820298c22fe6ea03dcf55e1ac7eee6a9
+Description:  dmesg  is used to examine or control the kernel ring buffer
+
+Package: dns-forwarder
+Version: 1.2.1-2
+Depends: libc
+Source: package/dns-forwarder
+SourceName: dns-forwarder
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 8822
+Filename: dns-forwarder_1.2.1-2_mips_24kc.ipk
+Size: 9606
+SHA256sum: 17abdd43f3c830e890e86ca2ef53192e113c9ab83c9ef2f3bf23ebc2e20657fa
+Description:  Forwarding DNS queries on TCP transport.
+
+Package: eject
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: eject
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 23262
+Filename: eject_2.34-1_mips_24kc.ipk
+Size: 23929
+SHA256sum: b88a9e0faae5056c0365f2cbfc35610b55e7fbce66275c1a45a17a717b8dea2d
+Description:  eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ
+ or ZIP disk) to be ejected under software control.
+
+Package: fdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1, libfdisk1, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: fdisk
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 47252
+Filename: fdisk_2.34-1_mips_24kc.ipk
+Size: 47644
+SHA256sum: e488b6f1054bc419892810e79a504baf7d71a9d565591396e8aec9bb1d4bd564
+Description:  a menu-driven program for creation and manipulation of partition tables
+
+Package: findfs
+Version: 2.34-1
+Depends: libc, libblkid1
+Source: feeds/base/package/utils/util-linux
+SourceName: findfs
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 2361
+Filename: findfs_2.34-1_mips_24kc.ipk
+Size: 3190
+SHA256sum: 6df0017195a89c2febf0093a5554c89322054775f7d7e63b4f8bd28978316ab2
+Description:  findfs will search the disks in the system looking for a filesystem which has
+ a label matching label or a UUID equal to uuid
+
+Package: flock
+Version: 2.34-1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/flock:/usr/bin/util-linux-flock
+Source: feeds/base/package/utils/util-linux
+SourceName: flock
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 9117
+Filename: flock_2.34-1_mips_24kc.ipk
+Size: 9940
+SHA256sum: 06d3d0c3e35844808e1612cd86e585029c01a4bc84f92b245c97787a586c73c4
+Description:  manages flock locks from within shell scripts or the command line
+
+Package: fstrim
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1, libsmartcols1, libmount1
+Source: feeds/base/package/utils/util-linux
+SourceName: fstrim
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 20803
+Filename: fstrim_2.34-1_mips_24kc.ipk
+Size: 21544
+SHA256sum: bc1006dc4f72a6f0aae689068a890e332c8aa488c47657c5128558f25e94a9ee
+Description:  fstrim is used on a mounted filesystem to discard (or "trim") blocks
+ which are not in use by the filesystem.  This is useful for solid-
+ state drives (SSDs) and thinly-provisioned storage.
+
+Package: getopt
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: getopt
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 4338
+Filename: getopt_2.34-1_mips_24kc.ipk
+Size: 5134
+SHA256sum: 5443c3cc015ce55d11ca3bc9ca5d121ffd26e7b0892860321d18d12eb3c29330
+Description:  getopt is used to break up (parse) options in command lines for easy parsing
+ by shell procedures, and to check for legal options
+
+Package: hwclock
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: hwclock
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 30346
+Filename: hwclock_2.34-1_mips_24kc.ipk
+Size: 31049
+SHA256sum: 95d95e246adfcb6bd1e7b374def58786a6c489151a4ee66db017c9ff48087924
+Description:  hwclock is a tool for accessing the Hardware Clock
+
+Package: iconv
+Version: 1.11.1-4
+Depends: libc, libiconv-full2, libcharset1
+Source: feeds/base/package/libs/libiconv-full
+SourceName: iconv
+License: LGPL-2.0
+LicenseFiles: COPYING.LIB
+Section: utils
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 10740
+Filename: iconv_1.11.1-4_mips_24kc.ipk
+Size: 11500
+SHA256sum: e41b9bad61a2122aecd1b779ae69a05064a615287159d03488b7304b37ede1d6
+Description:  Character set conversion utility
+
+Package: libblkid1
+Version: 2.34-1
+Depends: libc, libuuid1
+Provides: libblkid
+Source: feeds/base/package/utils/util-linux
+SourceName: libblkid
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 119684
+Filename: libblkid1_2.34-1_mips_24kc.ipk
+Size: 120422
+SHA256sum: 1f54a614fa6b7d0b9d64556ad216247a4f8a5213876cd877756547ca4cb886d0
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+Source: feeds/base/package/utils/bzip2
+SourceName: libbz2
+License: bzip2-1.0.8
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Steven Barth <cyrus@openwrt.org>
+Architecture: mips_24kc
+Installed-Size: 23138
+Filename: libbz2-1.0_1.0.8-1_mips_24kc.ipk
+Size: 23880
+SHA256sum: edfab4d14bf4e4f422555ea11c708223ea5a7e403b9c48f5b00830148d5ff32a
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This packages provides libbz2 library.
+
+Package: libcharset1
+Version: 1.11.1-4
+Depends: libc
+Provides: libcharset
+Source: feeds/base/package/libs/libiconv-full
+SourceName: libcharset
+License: LGPL-2.0
+LicenseFiles: COPYING.LIB
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 2360
+Filename: libcharset1_1.11.1-4_mips_24kc.ipk
+Size: 3125
+SHA256sum: 739a59169a469585ad6d9d3616167142ae5c4aec794a4c8285aae9e6cd392f1e
+Description:  Character set conversion library
+
+Package: libfdisk1
+Version: 2.34-1
+Depends: libc, libuuid1, libblkid1
+Provides: libfdisk
+Source: feeds/base/package/utils/util-linux
+SourceName: libfdisk
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 150824
+Filename: libfdisk1_2.34-1_mips_24kc.ipk
+Size: 151327
+SHA256sum: e822a225576f4eef65924720ed47fce8786e2432ac5925b54814302e3720dbd7
+Description:  The libfdisk library is used for manipulating with partition tables.
+
+Package: libiconv-full2
+Version: 1.11.1-4
+Depends: libc
+Provides: libiconv-full
+Source: feeds/base/package/libs/libiconv-full
+SourceName: libiconv-full
+License: LGPL-2.0
+LicenseFiles: COPYING.LIB
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 10985
+Filename: libiconv-full2_1.11.1-4_mips_24kc.ipk
+Size: 11731
+SHA256sum: a1b3c4cfc1db27b48b7902c0e620479572b0a617363dbc34d78936c9b9a2a74c
+Description:  Character set conversion library
+
+Package: libiconv
+Version: 8
+Depends: libc
+Source: feeds/base/package/libs/libiconv
+SourceName: libiconv
+License: LGPL-2.1
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 161
+Filename: libiconv_8_mips_24kc.ipk
+Size: 897
+SHA256sum: 43d583e8b1136d315598149db908ffe9faec3a4f2a0ccf0f6f08adc728ea1473
+Description:  Tiny drop-in replacement for the GNU Character set conversion library
+
+Package: libintl-full8
+Version: 0.19.8.1-2
+Depends: libc
+Provides: libintl-full
+Source: feeds/base/package/libs/gettext-full
+SourceName: libintl-full
+License: GPL-3.0+
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 14923
+Filename: libintl-full8_0.19.8.1-2_mips_24kc.ipk
+Size: 15624
+SHA256sum: 6c657640c8c5ec10e8a96a9784be27c4853b48d77f8e29596895abe79f6713da
+Description:  GNU Internationalization library
+
+Package: libintl
+Version: 2
+Depends: libc
+Source: feeds/base/package/libs/gettext
+SourceName: libintl
+License: FSFULLR
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: mips_24kc
+Installed-Size: 160
+Filename: libintl_2_mips_24kc.ipk
+Size: 887
+SHA256sum: d84122204901bf7537816c3065653c9234aed92d03d27470ab0fc046e902ca3a
+Description:  Stub header for the GNU Internationalization library
+
+Package: libmbedtls12
+Version: 2.16.4-1
+Depends: libc
+Provides: libmbedtls
+Source: feeds/base/package/libs/mbedtls
+SourceName: libmbedtls
+License: GPL-2.0+
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 177741
+Filename: libmbedtls12_2.16.4-1_mips_24kc.ipk
+Size: 178075
+SHA256sum: 664b15e3fcfc55b6a060b92c360bd92c38c5a73dcad3dd8877a9d2f53e2ff49d
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libmount1
+Version: 2.34-1
+Depends: libc, libblkid1
+Provides: libmount
+Source: feeds/base/package/utils/util-linux
+SourceName: libmount
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 121359
+Filename: libmount1_2.34-1_mips_24kc.ipk
+Size: 122119
+SHA256sum: 36c35dc89764745f5aa7713a9b24fbede12febbbdde5f6c306c81e19b55dad7c
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...
+
+Package: libncurses-dev
+Version: 6.1-5
+Depends: libc, zlib
+Source: feeds/base/package/libs/ncurses
+SourceName: libncurses-dev
+License: MIT
+LicenseFiles: README
+Section: devel
+Architecture: mips_24kc
+Installed-Size: 260939
+Filename: libncurses-dev_6.1-5_mips_24kc.ipk
+Size: 257585
+SHA256sum: 2b340a802be1d44ad40f9ad13f13c54dc191cf0b3d555b39188d469963d14796
+Description:  Development files for the ncurses library
+
+Package: libncurses6
+Version: 6.1-5
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+Source: feeds/base/package/libs/ncurses
+SourceName: libncurses
+License: MIT
+LicenseFiles: README
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 150089
+Filename: libncurses6_6.1-5_mips_24kc.ipk
+Size: 146234
+SHA256sum: 3fafaaaa2ce315ff17a082347f513641d605d69939297b3f30639c40236b3003
+Description:  Terminal handling library (Unicode)
+
+Package: libopenssl-conf
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1
+Source: feeds/base/package/libs/openssl
+SourceName: libopenssl-conf
+License: OpenSSL
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 4550
+Filename: libopenssl-conf_1.1.1d-2_mips_24kc.ipk
+Size: 5493
+SHA256sum: 9451ec41512ea277f7ce4786761b1cc9a4097d6f6af251e78d350cd26a192c39
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package installs the OpenSSL configuration file /etc/ssl/openssl.cnf.
+
+Package: libopenssl-devcrypto
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, kmod-cryptodev, libopenssl-conf
+Source: feeds/base/package/libs/openssl
+SourceName: libopenssl-devcrypto
+License: OpenSSL
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 7730
+Filename: libopenssl-devcrypto_1.1.1d-2_mips_24kc.ipk
+Size: 8689
+SHA256sum: cbde6f930a0ce920e1f00454560bdeb66aac96c08f9f9fb7faec7d342d92cff7
+Description:  This package adds an engine that enables hardware acceleration
+ through the /dev/crypto kernel interface.
+ To use it, you need to configure the engine in /etc/ssl/openssl.cnf
+ See https://www.openssl.org/docs/man1.1.1/man5/config.html#Engine-Configuration-Module
+ and https://openwrt.org/docs/techref/hardware/cryptographic.hardware.accelerators
+ The engine_id is "devcrypto"
+
+Package: libopenssl1.1
+Version: 1.1.1d-2
+Depends: libc
+Provides: libopenssl
+Source: feeds/base/package/libs/openssl
+SourceName: libopenssl
+License: OpenSSL
+LicenseFiles: LICENSE
+Section: libs
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 1003862
+Filename: libopenssl1.1_1.1.1d-2_mips_24kc.ipk
+Size: 993005
+SHA256sum: d97643d1f4afd8b984f0455e44d8f200ce5c9d386d6dddf5705597450511350b
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL shared libraries, needed by other programs.
+
+Package: libreadline8
+Version: 8.0-1
+Depends: libc, libncursesw6
+Provides: libreadline
+Source: feeds/base/package/libs/readline
+SourceName: libreadline
+License: GPL-3.0
+LicenseFiles: COPYING
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 107659
+Filename: libreadline8_8.0-1_mips_24kc.ipk
+Size: 107234
+SHA256sum: 5892faf56ddb602f8300ae7a499536f05f027845f182b2b368c2d44272fedccf
+Description:  The Readline library provides a set of functions for use by applications
+ that allow users to edit command lines as they are typed in. Both Emacs
+ and vi editing modes are available. The Readline library includes
+ additional functions to maintain a list of previously-entered command
+ lines, to recall and perhaps reedit those lines, and perform csh-like
+ history expansion on previous commands.
+
+Package: libsmartcols1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libsmartcols
+Source: feeds/base/package/utils/util-linux
+SourceName: libsmartcols
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 76332
+Filename: libsmartcols1_2.34-1_mips_24kc.ipk
+Size: 77136
+SHA256sum: f6fdd8168db02f858c676e88867bf4d1d0cc918b30c8d82b92b4f1ffec1203a6
+Description:  The smartcols library is used to print tables and trees in a pretty way.
+
+Package: libuuid1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libuuid
+Source: feeds/base/package/utils/util-linux
+SourceName: libuuid
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 11827
+Filename: libuuid1_2.34-1_mips_24kc.ipk
+Size: 12736
+SHA256sum: 33c78793e0e2f9a50fcbad1f421f1ba92856bcf32d1d47d44727d8a88e8c452f
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logger
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: logger
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 14499
+Filename: logger_2.34-1_mips_24kc.ipk
+Size: 15244
+SHA256sum: 2626ce13349663e3722c74d57b94757d3fa619b2c803966d9e2d1b9702312f21
+Description:  logger makes entries in the system log, it provides a shell command interface
+ to the syslog system log module
+
+Package: look
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: look
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 3526
+Filename: look_2.34-1_mips_24kc.ipk
+Size: 4279
+SHA256sum: 7083f96d8547b8ec77937dc28b0a2294a62b4e15eb11935d738db4375f6b72dd
+Description:  look utility displays any lines in file which contain string
+
+Package: losetup
+Version: 2.34-1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: losetup
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 33859
+Filename: losetup_2.34-1_mips_24kc.ipk
+Size: 34724
+SHA256sum: bfc2fdd58ad57ad292d056be0c286169848637d26a78ccc083609f99acb7b2d9
+Description:  losetup is used to associate loop devices with regular files or block devices,
+ to detach loop devices and to query the status of a loop device
+
+Package: lsblk
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: lsblk
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 37924
+Filename: lsblk_2.34-1_mips_24kc.ipk
+Size: 38635
+SHA256sum: c668d643a2aa89b94d3a7cbeade9695124584e1c204d53da949637541ab808b9
+Description:  lsblk lists information about all or the specified block devices
+
+Package: lscpu
+Version: 2.34-1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: lscpu
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 28534
+Filename: lscpu_2.34-1_mips_24kc.ipk
+Size: 29250
+SHA256sum: cad6d4142e2ecff0e9e3779918ba669770e59c3c45c21445af04c6298d4afa80
+Description:  lscpu displays information about the CPU architecture
+
+Package: luci-app-chinadns
+Version: 1.6.2-1
+Depends: libc, ChinaDNS
+Source: package/openwrt-dist-luci
+SourceName: luci-app-chinadns
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 1643
+Filename: luci-app-chinadns_1.6.2-1_all.ipk
+Size: 2527
+SHA256sum: 0e2e89e050f4956e22ef7ca2f9883ed99a2df727747bc209990978b0a86832d7
+Description:  LuCI Support for ChinaDNS.
+
+Package: luci-app-dns-forwarder
+Version: 1.6.2-1
+Depends: libc, dns-forwarder
+Source: package/openwrt-dist-luci
+SourceName: luci-app-dns-forwarder
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 1349
+Filename: luci-app-dns-forwarder_1.6.2-1_all.ipk
+Size: 2250
+SHA256sum: e3b80d6931f8e2c26182ff5c97dbbd261afe2c3fb7e5b2a204c2f2a94d4ccade
+Description:  LuCI Support for Dns-Forwarder.
+
+Package: luci-app-openclash
+Version: 0.36.6-beta
+Depends: libc, iptables, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, jsonfilter, ca-certificates
+Source: package/openclash/luci-app-openclash
+SourceName: luci-app-openclash
+Section: opt
+Maintainer: vernesong
+Architecture: all
+Installed-Size: 2840036
+Filename: luci-app-openclash_0.36.6-beta_all.ipk
+Size: 2660482
+SHA256sum: 7dc13cd455eef778b7cf50b9a42fc3619db5db216fe9498f637702d912ace4b1
+Description:  A LuCI support for clash
+
+Package: luci-app-redsocks2
+Version: 1.6.2-1
+Depends: libc, redsocks2
+Source: package/openwrt-dist-luci
+SourceName: luci-app-redsocks2
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 1530
+Filename: luci-app-redsocks2_1.6.2-1_all.ipk
+Size: 2407
+SHA256sum: 7026c80eaf12f2aae0939ff7d9b0989216021665809d4d70db604a5eecbd7d00
+Description:  LuCI Support for RedSocks2.
+
+Package: luci-app-shadowsocks-without-ipset
+Version: 1.9.1-1
+Depends: libc, iptables
+Source: package/luci-app-shadowsocks
+SourceName: luci-app-shadowsocks-without-ipset
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 10294
+Filename: luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk
+Size: 11228
+SHA256sum: 4127ea02dee82cbb3419d525ae8e55fca8cf6e28af78454e1674f76c992a0662
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowsocks
+Version: 1.9.1-1
+Depends: libc, iptables, ipset
+Source: package/luci-app-shadowsocks
+SourceName: luci-app-shadowsocks
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 10416
+Filename: luci-app-shadowsocks_1.9.1-1_all.ipk
+Size: 11342
+SHA256sum: 2b0489562692c4fb7b169e2e155dcebf131fb1ba48fe2694e0b3012308b8f2c4
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowvpn
+Version: 1.6.2-1
+Depends: libc, ShadowVPN
+Source: package/openwrt-dist-luci
+SourceName: luci-app-shadowvpn
+License: GPLv3
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: all
+Installed-Size: 1806
+Filename: luci-app-shadowvpn_1.6.2-1_all.ipk
+Size: 2689
+SHA256sum: 37ccf89c253a1eccf7530a4311ca3c151e6070ccc355463127102414028b15ee
+Description:  LuCI Support for ShadowVPN.
+
+Package: luci-app-smartdns-compat
+Version: 1.2019.28-1
+Depends: libc, luci-compat, smartdns
+Source: package/luci-app-smartdns/luci-app-smartdns-compat
+SourceName: luci-app-smartdns-compat
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: all
+Installed-Size: 5368
+Filename: luci-app-smartdns-compat_1.2019.28-1_all.ipk
+Size: 6155
+SHA256sum: 96515440e01ef61f60922541219e83422605e32abb62d3f5621671de2abb18e5
+Description:  Provides Luci for smartdns
+
+Package: luci-app-smartdns
+Version: 1.2019.28-1
+Depends: libc, luci-base, smartdns
+Source: package/luci-app-smartdns/luci-app-smartdns
+SourceName: luci-app-smartdns
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: all
+Installed-Size: 5196
+Filename: luci-app-smartdns_1.2019.28-1_all.ipk
+Size: 6011
+SHA256sum: 772880fd9a5948aa02077be3c97083e88090eaec78129f5acca358b0578a5b9f
+Description:  Provides Luci for smartdns
+
+Package: luci-app-v2ray
+Version: 1.5.3-1
+Depends: libc, jshn, luci-lib-jsonc, ip, ipset, iptables, iptables-mod-tproxy, resolveip, dnsmasq-full
+Source: package/luci-app-v2ray
+SourceName: luci-app-v2ray
+License: MIT
+Section: luci
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: all
+Installed-Size: 84320
+Filename: luci-app-v2ray_1.5.3-1_all.ipk
+Size: 84274
+SHA256sum: 521d43e0a815b67d0c01b8a57fb25d97de74a144df1da1c1fe9e625d2e43837b
+Description:  LuCI support for V2Ray
+
+Package: luci-app-vlmcsd
+Version: 1.0.1-1
+Depends: libc, vlmcsd
+Source: package/luci-app-vlmcsd
+SourceName: luci-app-vlmcsd
+License: MIT
+LicenseFiles: LICENSE
+Section: luci
+Maintainer: fuyumi
+Architecture: all
+Installed-Size: 1625
+Filename: luci-app-vlmcsd_1.0.1-1_all.ipk
+Size: 2472
+SHA256sum: 3c9a2087ac4fc70fed0057593da28446fbe1b83206361ed862b888534c7e1064
+Description:  This package contains LuCI configuration pages for openwrt-vlmcsd.
+
+Package: luci-i18n-smartdns-compat-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns-compat
+Source: package/luci-app-smartdns/luci-app-smartdns-compat
+SourceName: luci-i18n-smartdns-compat-zh-cn
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: all
+Installed-Size: 3205
+Filename: luci-i18n-smartdns-compat-zh-cn_1.2019.28-1_all.ipk
+Size: 4011
+SHA256sum: 9bb0d2271d61a9bec9611fc591c516eb4b19aa75d861a345ec236cf5d8b8d52a
+Description:  Translation for luci-app-smartdns-compat - 中文 (Chinese)
+
+Package: luci-i18n-smartdns-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns
+Source: package/luci-app-smartdns/luci-app-smartdns
+SourceName: luci-i18n-smartdns-zh-cn
+License: GPL-3.0-or-later
+Section: luci
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: all
+Installed-Size: 3198
+Filename: luci-i18n-smartdns-zh-cn_1.2019.28-1_all.ipk
+Size: 4018
+SHA256sum: 53171f211d710c4f34ba2cf59266b7f89e00c7a7f4eb21847d4279bd329197a9
+Description:  Translation for luci-app-smartdns - 中文 (Chinese)
+
+Package: luci-i18n-v2ray-zh-cn
+Version: 1.5.3-1
+Depends: libc, luci-app-v2ray
+Source: package/luci-app-v2ray
+SourceName: luci-i18n-v2ray-zh-cn
+License: MIT
+Section: luci
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: all
+Installed-Size: 5931
+Filename: luci-i18n-v2ray-zh-cn_1.5.3-1_all.ipk
+Size: 6711
+SHA256sum: a3d1fd71c3d73d8ad22c4858537fc8d0de63459f4c07933db2fa152f032568bf
+Description:  Translation for luci-app-v2ray - 
+
+Package: mbedtls-util
+Version: 2.16.4-1
+Depends: libc, libmbedtls12
+Source: feeds/base/package/libs/mbedtls
+SourceName: mbedtls-util
+License: GPL-2.0+
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 6897
+Filename: mbedtls-util_2.16.4-1_mips_24kc.ipk
+Size: 7753
+SHA256sum: 1cfd2e67899cea5a7a325fe87cc579ade4c26e445c6dbf23650400ce47af6c84
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains mbedtls helper programs for private key and
+ CSR generation (gen_key, cert_req)
+
+Package: mcookie
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: mcookie
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 10871
+Filename: mcookie_2.34-1_mips_24kc.ipk
+Size: 11654
+SHA256sum: da60125a9c40ba549999837372983f2a146d296af3c1024e9a2455c7115335b1
+Description:  mcookie generates a 128-bit random hexadecimal number for use with the X
+ authority system
+
+Package: mount-utils
+Version: 2.34-1
+Depends: libc, librt, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: mount-utils
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 45244
+Filename: mount-utils_2.34-1_mips_24kc.ipk
+Size: 45576
+SHA256sum: 7aa3b9630aa67802dc9e15f52b41119407279630d540a63408c9f15216f726ae
+Description:  contains: mount, umount, findmnt
+
+Package: namei
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: namei
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 9323
+Filename: namei_2.34-1_mips_24kc.ipk
+Size: 10153
+SHA256sum: 715564e5d494434969e7a98b605f5aac6794d9fc3e7c11fb34a470cf90261843
+Description:  namei uses its arguments as pathnames to any type of Unix file (symlinks,
+ files, directories, and so forth)
+
+Package: nsenter
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: nsenter
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 9528
+Filename: nsenter_2.34-1_mips_24kc.ipk
+Size: 10303
+SHA256sum: 792fbbc75272cb752fefb9e8afca8ee6171ad5db665de2323914d2fc41a37e94
+Description:  run program with namespaces of other processes
+
+Package: openssl-util
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, libopenssl-conf
+Source: feeds/base/package/libs/openssl
+SourceName: openssl-util
+License: OpenSSL
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 241180
+Filename: openssl-util_1.1.1d-2_mips_24kc.ipk
+Size: 239244
+SHA256sum: 2d1dff1297a8976f0fa28ad07b6c6aeccf07360f995048df915cc3b5eb59a3f5
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL command-line utility.
+
+Package: partx-utils
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: partx-utils
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 39959
+Filename: partx-utils_2.34-1_mips_24kc.ipk
+Size: 40725
+SHA256sum: 72f1592a7f3c5a1342e2d83ae14506fd1c07d4673914e5cc4140c4df941c27e1
+Description:  contains partx, addpart, delpart
+
+Package: prlimit
+Version: 2.34-1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: prlimit
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 10339
+Filename: prlimit_2.34-1_mips_24kc.ipk
+Size: 11152
+SHA256sum: 1714cd28c3bab6f3d485413f1ec07b101141c271a1ccc384ab29aecdba2f8ea4
+Description:  Given a process id and one or more resources, prlimit tries to retrieve
+ and/or modify the limits.
+
+Package: rename
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: rename
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 4208
+Filename: rename_2.34-1_mips_24kc.ipk
+Size: 4987
+SHA256sum: 1a8c3b92f1d0dfa86947f9a07a9af522209719d81981f9d7c1d6e880fa5e14c9
+Description:  rename will rename the specified files by replacing the first occurrence of
+ expression in their name by replacement
+
+Package: script-utils
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: script-utils
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 18471
+Filename: script-utils_2.34-1_mips_24kc.ipk
+Size: 19226
+SHA256sum: d5437aead7a65afa8e4ad1bf2f8a3844f3768d715f425167df12debd75552028
+Description:  contains: script, scriptreplay
+
+Package: setterm
+Version: 2.34-1
+Depends: libc, libncurses6
+Source: feeds/base/package/utils/util-linux
+SourceName: setterm
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 13157
+Filename: setterm_2.34-1_mips_24kc.ipk
+Size: 13925
+SHA256sum: 671175d67fa271267a2ebcdaeff89cae8b6fef60250cf61c70ac6a3338686b60
+Description:  setterm writes to standard output a character string that will invoke the
+ specified terminal capabilities
+
+Package: sfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libfdisk1, libsmartcols1, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: sfdisk
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 43563
+Filename: sfdisk_2.34-1_mips_24kc.ipk
+Size: 44145
+SHA256sum: 0bde7dee70ff475bee43c89b43e0ba561b2940794d245183aa260354b9efdd6f
+Description:  list the size of a partition, list the partitions on a device, check the
+ partitions on a device and repartition a device
+
+Package: shadowsocks-libev-server
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+Source: package/shadowsocks-libev
+SourceName: shadowsocks-libev-server
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 60968
+Filename: shadowsocks-libev-server_3.3.4-1_mips_24kc.ipk
+Size: 61218
+SHA256sum: d20367fc7b3cdc73550d1a40a3fbaf752e5e327592d990754e467f22c5da907f
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: shadowsocks-libev
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+Source: package/shadowsocks-libev
+SourceName: shadowsocks-libev
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 156493
+Filename: shadowsocks-libev_3.3.4-1_mips_24kc.ipk
+Size: 155686
+SHA256sum: 311d637f7e041c4a02670a6e5177ae52978069f8a6e276b937e3fc36c2cdc991
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: simple-obfs-server
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+Source: package/simple-obfs
+SourceName: simple-obfs-server
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 29318
+Filename: simple-obfs-server_0.0.5-4_mips_24kc.ipk
+Size: 29784
+SHA256sum: aefcee82f939e367e616dde27a2c406c6395c6e85a4d40832cdc803b92a83014
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: simple-obfs
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+Source: package/simple-obfs
+SourceName: simple-obfs
+License: GPLv3
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mips_24kc
+Installed-Size: 27588
+Filename: simple-obfs_0.0.5-4_mips_24kc.ipk
+Size: 28145
+SHA256sum: d66c8b7dcf55a53b214873befffc6243467a39ef21411716c2120e3f1074959e
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: smartdns
+Version: 1.2020.28-1
+Depends: libc, libpthread, libopenssl1.1
+Source: package/smartdns
+SourceName: smartdns
+License: GPL-3.0-or-later
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Nick Peng <pymumu@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 63263
+Filename: smartdns_1.2020.28-1_mips_24kc.ipk
+Size: 64018
+SHA256sum: a62943723561eaa1524eee78e9cf83f6db8cf4d8c1408784cb057831adb11da3
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ get DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: swap-utils
+Version: 2.34-1
+Depends: libc, librt, libblkid1
+Source: feeds/base/package/utils/util-linux
+SourceName: swap-utils
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 35619
+Filename: swap-utils_2.34-1_mips_24kc.ipk
+Size: 36373
+SHA256sum: d1c305f38f688df8cbc8d72f5a63e7aad79c4fe4fe2ba75a1ea71cb7ba213f42
+Description:  contains: mkswap, swaplabel
+
+Package: terminfo
+Version: 6.1-5
+Depends: libc
+Source: feeds/base/package/libs/ncurses
+SourceName: terminfo
+License: MIT
+LicenseFiles: README
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 6234
+Filename: terminfo_6.1-5_mips_24kc.ipk
+Size: 6881
+SHA256sum: 48683049a9c97619d3ea0d0330a585d629333e908b5096ff9f8a8017de26542f
+Description:  Terminal Info Database (ncurses)
+
+Package: trojan
+Version: 1.14.0-1
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+Source: package/trojan
+SourceName: trojan
+License: GPL-3.0
+Section: net
+Maintainer: GreaterFire
+Architecture: mips_24kc
+Installed-Size: 984059
+Filename: trojan_1.14.0-1_mips_24kc.ipk
+Size: 983159
+SHA256sum: f861f39749be8b6a005725b40e4e65af462acad482f833c3dac280e8c6e48182
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: uclibcxx
+Version: 0.2.5-3
+Depends: libc
+Source: feeds/base/package/libs/uclibc++
+SourceName: uclibcxx
+License: LGPL-2.1-or-later
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 67654
+Filename: uclibcxx_0.2.5-3_mips_24kc.ipk
+Size: 68173
+SHA256sum: bfa2dd644d6eddbfa6537359f5b068d2b2fcd3fff16cba7af2df33e881716389
+Description:  C++ library for embedded systems
+
+Package: unshare
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: unshare
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 11107
+Filename: unshare_2.34-1_mips_24kc.ipk
+Size: 11869
+SHA256sum: 6723fde07b80861e6e8924bbed38f165a57d2c9d20a53e304c07c5ec9f8c8dca
+Description:  run programs with some namespaces unshared from parent
+
+Package: uuidd
+Version: 2.34-1
+Depends: libc, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: uuidd
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 11833
+Filename: uuidd_2.34-1_mips_24kc.ipk
+Size: 12738
+SHA256sum: b195e17ba0b1ca22ad9232214c01ad584adbf39663cd9ad2467a739356f62f22
+Description:  The uuidd daemon is used by the UUID library to generate universally unique
+ identifiers (UUIDs), especially time-based UUIDs, in a secure and
+ guaranteed-unique fashion, even in the face of large numbers of threads
+ running on different CPUs trying to grab UUIDs.
+
+Package: uuidgen
+Version: 2.34-1
+Depends: libc, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: uuidgen
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 3435
+Filename: uuidgen_2.34-1_mips_24kc.ipk
+Size: 4299
+SHA256sum: 5a2534a5db0bdf4338a5fe6c5d1b33827c697538538fc6a622dcddca96a92819
+Description:  The uuidgen program creates (and prints) a new universally unique identifier
+ (UUID) using the libuuid library. The new UUID can reasonably be considered
+ unique among all UUIDs created on the local system, and among UUIDs created on
+ other systems in the past and in the future.
+
+Package: v2ray-core
+Version: 4.22.1-4
+Depends: libc, ca-certificates
+Source: package/v2ray-core
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 13071181
+Filename: v2ray-core_4.22.1-4_mips_24kc.ipk
+Size: 12975884
+SHA256sum: 0dadc8ee62584e2f373d4ba2999b4b5fadd596122e4d822b3e9b74a671946327
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ 
+ This package contains v2ray, v2ctl and v2ray-assets.
+
+Package: v2ray-plugin
+Version: 1.2.0-2
+Depends: libc
+Source: package/v2ray-plugin
+SourceName: v2ray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Maintainer: Simon Shi <simonsmh@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 3807428
+Filename: v2ray-plugin_1.2.0-2_mips_24kc.ipk
+Size: 3799791
+SHA256sum: 75b48ecee154367ed89b0de3b1a3307958388f49554ff15938709b21379be2c8
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray
+
+Package: vlmcsd
+Version: svn1112-1
+Depends: libc, libpthread
+Source: package/vlmcsd
+SourceName: vlmcsd
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+Maintainer: fuyumi <280604399@qq.com>
+Architecture: mips_24kc
+Installed-Size: 49963
+Filename: vlmcsd_svn1112-1_mips_24kc.ipk
+Size: 50630
+SHA256sum: 5488c46b2e9752176b992aed5b67c2076db79e8480fb3b240114d9b94fcaa46b
+Description:  vlmcsd is a KMS Emulator in C.
+
+Package: wall
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: wall
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 9837
+Filename: wall_2.34-1_mips_24kc.ipk
+Size: 10604
+SHA256sum: 16c76bd21fb01a7f81a42e6d7095420970885c8212f065f7d36d677221cc781f
+Description:  wall sends a message to everybody logged in with their mesg permission
+ set to yes
+
+Package: whereis
+Version: 2.34-1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: whereis
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 8197
+Filename: whereis_2.34-1_mips_24kc.ipk
+Size: 9012
+SHA256sum: 2a6246d753493f66735001d6dee0022a62febbf910d02571c2e8d4f67b2ac392
+Description:  whereis locates source/binary and manuals sections for specified files
+
+Package: wipefs
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: wipefs
+License: GPL-2.0
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 12368
+Filename: wipefs_2.34-1_mips_24kc.ipk
+Size: 13222
+SHA256sum: 703ae6a71324d3c2836fae672e1b0ffec7b4ce9b18c0040de67e29012aa487f3
+Description:  wipefs can erase filesystem, raid or partition table signatures (magic
+ strings) from the specified device to make the signature invisible for
+ libblkid.
+
+Package: zlib-dev
+Version: 1.2.11-3
+Depends: libc, zlib
+Source: feeds/base/package/libs/zlib
+SourceName: zlib-dev
+License: Zlib
+LicenseFiles: README
+Section: devel
+Architecture: mips_24kc
+Installed-Size: 77507
+Filename: zlib-dev_1.2.11-3_mips_24kc.ipk
+Size: 78223
+SHA256sum: 56c23342282f698f6cd5b8f232bde6e48e21e56424b0740a93668e00f871d6ca
+Description:  zlib is a lossless data-compression library.
+ This package includes the development support files.
+
+Package: zlib
+Version: 1.2.11-3
+Depends: libc
+Source: feeds/base/package/libs/zlib
+SourceName: zlib
+License: Zlib
+LicenseFiles: README
+Section: libs
+Architecture: mips_24kc
+Installed-Size: 37845
+Filename: zlib_1.2.11-3_mips_24kc.ipk
+Size: 38578
+SHA256sum: c39d5a0d65b648c80881cb6f4aebcf4853973f64be66bd33c7a0f2d3bfcad628
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+
