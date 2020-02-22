@@ -1,0 +1,1126 @@
+Package: ChinaDNS
+Version: 1.3.3-1
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 36585
+Filename: ChinaDNS_1.3.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 36195
+SHA256sum: e45e35ae77f1e22d4b11caf02bb367c1ec5684b5f42c17ac287560c6b3fa84e8
+Description:  Protect yourself against DNS poisoning in China.
+
+Package: agetty
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 20424
+Filename: agetty_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21196
+SHA256sum: 2c428a7cfe5dce0628a99ca42c9a8af5fa8b91fa9e98e1b03a825fb3e1ab24de
+Description:  agetty opens a tty port, prompts for a login name and invokes the
+ /bin/login command
+
+Package: blkdiscard
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 8084
+Filename: blkdiscard_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8986
+SHA256sum: 01fabfc739214bee1d98b99fe3eb36227aec3e500383febc8efc399a43a9e8ae
+Description:  The blkdiscard is used to discard device sectors. This is useful for
+ solid-state drivers (SSDs) and thinly-provisioned storage. Unlike fstrim,
+ this command is used directly on the block device.
+
+Package: blkid
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 38638
+Filename: blkid_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 39362
+SHA256sum: 24f356acd7df75fbcaf7f7334bd171b1f693440b10b63dfffff63ce92b9835a5
+Description:  The blkid program is the command-line interface to working with the libblkid
+ library.
+
+Package: blockdev
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 17501
+Filename: blockdev_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 18259
+SHA256sum: 3ad50dddce4220aeecad5918795da6778a76ea3277a697c815b8b3d8a04ef0aa
+Description:  The blockdev program is the command-line interface to call block device ioctls.
+
+Package: bzip2
+Version: 1.0.8-1
+Depends: libc, libbz2-1.0
+License: bzip2-1.0.8
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 12439
+Filename: bzip2_1.0.8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13199
+SHA256sum: a31a73e7e51cfdb19c8f8853d4c7e071e908bf72a13b963fea8d7b25703023c1
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This package provides the binary.
+
+Package: cal
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 21224
+Filename: cal_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21896
+SHA256sum: 680f8e5521afac4bb01426a238ee941fc589c6bab420b628c019eb59fdecd73a
+Description:  cal displays a simple calendar
+
+Package: cfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libncurses6, libsmartcols1, libfdisk1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 33945
+Filename: cfdisk_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 34592
+SHA256sum: f265acf1a34c45f4aa545e8cf250f4f528e1c3795ad6bd56ff1436400ff1eb43
+Description:  cfdisk is a curses-based program for partitioning any hard disk drive
+
+Package: dmesg
+Version: 2.34-1
+Depends: libc, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 23057
+Filename: dmesg_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 23858
+SHA256sum: 236f8ad7ff4e575b1b5aa5fe8a54cd6da41afbba551fef3c497161c7232c2481
+Description:  dmesg  is used to examine or control the kernel ring buffer
+
+Package: dns-forwarder
+Version: 1.2.1-2
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 8334
+Filename: dns-forwarder_1.2.1-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 9127
+SHA256sum: be6d95e1f200959effaf908c3908f2267dfa6737beaf1c38b5e0f3e0cc48b048
+Description:  Forwarding DNS queries on TCP transport.
+
+Package: eject
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 23302
+Filename: eject_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 24102
+SHA256sum: 11c199f449a76e6e21a026202b909d51dd54402800dfcd41d191f94792efa2a0
+Description:  eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ
+ or ZIP disk) to be ejected under software control.
+
+Package: fdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1, libfdisk1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 48460
+Filename: fdisk_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 49033
+SHA256sum: 98a677401e1caee1b41c61b565e2ff0ef9e67f6ad5f2e8d5d6d087f237f6e307
+Description:  a menu-driven program for creation and manipulation of partition tables
+
+Package: findfs
+Version: 2.34-1
+Depends: libc, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2151
+Filename: findfs_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 2984
+SHA256sum: 21701b1fd13217a8b3e912fe06aa3075d99b2ee7bfec88e5a0b804b202e1f07b
+Description:  findfs will search the disks in the system looking for a filesystem which has
+ a label matching label or a UUID equal to uuid
+
+Package: flock
+Version: 2.34-1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/flock:/usr/bin/util-linux-flock
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9022
+Filename: flock_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 9819
+SHA256sum: 2e07d854586f4550c99e887d74b5b1d5148f7aabfd5c24af3648f60c672b55a7
+Description:  manages flock locks from within shell scripts or the command line
+
+Package: fstrim
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1, libsmartcols1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 20853
+Filename: fstrim_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 21716
+SHA256sum: 5effa990f71a1d8345c1be939fe66cea685c4445189857e6221d665d56c54f20
+Description:  fstrim is used on a mounted filesystem to discard (or "trim") blocks
+ which are not in use by the filesystem.  This is useful for solid-
+ state drives (SSDs) and thinly-provisioned storage.
+
+Package: getopt
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4348
+Filename: getopt_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5153
+SHA256sum: 2f1c527c7aaadbf7311fdb92685fd53308363687a26fe61394bf7cdf68bcccdd
+Description:  getopt is used to break up (parse) options in command lines for easy parsing
+ by shell procedures, and to check for legal options
+
+Package: hwclock
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 30352
+Filename: hwclock_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 31107
+SHA256sum: 69840142f22f94f91be5ef85fb042fa6e4893ca945c4b5ce9675e77f6116aa3f
+Description:  hwclock is a tool for accessing the Hardware Clock
+
+Package: iconv
+Version: 1.11.1-4
+Depends: libc, libiconv-full2, libcharset1
+License: LGPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11268
+Filename: iconv_1.11.1-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 12002
+SHA256sum: 9eb65110b6d2fc6d773f05cc3b4e85254c4af94d3aaf0402b39445154bd11ca9
+Description:  Character set conversion utility
+
+Package: libblkid1
+Version: 2.34-1
+Depends: libc, libuuid1
+Provides: libblkid
+License: GPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 125161
+Filename: libblkid1_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 125869
+SHA256sum: df924b4ea6b3c6daccf0a0cb4055211a7785d502b94716f6c669736f2f65f01d
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+License: bzip2-1.0.8
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 24253
+Filename: libbz2-1.0_1.0.8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 24919
+SHA256sum: 2b280c4197160ec3c6b8a10ad8f875e3ccfed59e06da8d55c1b95910834a9f8a
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This packages provides libbz2 library.
+
+Package: libcharset1
+Version: 1.11.1-4
+Depends: libc
+Provides: libcharset
+License: LGPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 2261
+Filename: libcharset1_1.11.1-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3025
+SHA256sum: f9c13cdbcfada7caee568532ac128c520a4ec40e2294843b9868b17228579c16
+Description:  Character set conversion library
+
+Package: libfdisk1
+Version: 2.34-1
+Depends: libc, libuuid1, libblkid1
+Provides: libfdisk
+License: GPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 165012
+Filename: libfdisk1_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 165377
+SHA256sum: baf11d6f926555915551ab30a0d70351e13659f5114505ae3c2f206a297e0074
+Description:  The libfdisk library is used for manipulating with partition tables.
+
+Package: libiconv-full2
+Version: 1.11.1-4
+Depends: libc
+Provides: libiconv-full
+License: LGPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11356
+Filename: libiconv-full2_1.11.1-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 12125
+SHA256sum: 480e72789976c9637a10f1d8640368dd79691ffe7e2df5448fe2a600045d8be8
+Description:  Character set conversion library
+
+Package: libiconv
+Version: 8
+Depends: libc
+License: LGPL-2.1
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 161
+Filename: libiconv_8_arm_cortex-a7_neon-vfpv4.ipk
+Size: 912
+SHA256sum: 319d3bf14907482b6b8822938dbadc5e14fb1c1cf7345235abd2e4ad143a6d34
+Description:  Tiny drop-in replacement for the GNU Character set conversion library
+
+Package: libintl-full8
+Version: 0.19.8.1-2
+Depends: libc
+Provides: libintl-full
+License: GPL-3.0+
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15266
+Filename: libintl-full8_0.19.8.1-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 15882
+SHA256sum: 0e457706b0b6d6c424b68652e29ed1a359f8d548e5e9ba8d7a661daca267cce4
+Description:  GNU Internationalization library
+
+Package: libintl
+Version: 2
+Depends: libc
+License: FSFULLR
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 160
+Filename: libintl_2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 905
+SHA256sum: a1ec87e2630b52b66be1fe7a1fecabe29598cddf34ffac3d7a6396913f5a5080
+Description:  Stub header for the GNU Internationalization library
+
+Package: libmbedtls12
+Version: 2.16.4-1
+Depends: libc
+Provides: libmbedtls
+License: GPL-2.0+
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 160536
+Filename: libmbedtls12_2.16.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 161118
+SHA256sum: 80d804a2fd1d0778022edf9bdfec609189ba6142dc5295b2c565117023d594ed
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libmount1
+Version: 2.34-1
+Depends: libc, libblkid1
+Provides: libmount
+License: GPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 140733
+Filename: libmount1_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 140897
+SHA256sum: 15d4e6b4e29564bd88c7f635712291386aa968df1dd8c11b73374cc02370008f
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...
+
+Package: libncurses-dev
+Version: 6.1-5
+Depends: libc, zlib
+License: MIT
+Section: devel
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 240869
+Filename: libncurses-dev_6.1-5_arm_cortex-a7_neon-vfpv4.ipk
+Size: 239717
+SHA256sum: 7e3884c5b978e08b50f3426b6a430ba1ac1156430975eb3894b94efbec267b80
+Description:  Development files for the ncurses library
+
+Package: libncurses6
+Version: 6.1-5
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+License: MIT
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 153795
+Filename: libncurses6_6.1-5_arm_cortex-a7_neon-vfpv4.ipk
+Size: 151940
+SHA256sum: 73fc9e0fa38d507d36c7d8e1bfdaea8c9ea573d3c4e82badab8dc9c6afd518ea
+Description:  Terminal handling library (Unicode)
+
+Package: libopenssl-conf
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1
+License: OpenSSL
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4550
+Filename: libopenssl-conf_1.1.1d-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5502
+SHA256sum: 10a751e2c265f7ff97a624feed121c79acac064248261e40e21b40be99297950
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package installs the OpenSSL configuration file /etc/ssl/openssl.cnf.
+
+Package: libopenssl-devcrypto
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, kmod-cryptodev, libopenssl-conf
+License: OpenSSL
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7473
+Filename: libopenssl-devcrypto_1.1.1d-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8471
+SHA256sum: 5aaf99544cf951b15be0a65865bb08857302400c7a1e2f00295143320f568826
+Description:  This package adds an engine that enables hardware acceleration
+ through the /dev/crypto kernel interface.
+ To use it, you need to configure the engine in /etc/ssl/openssl.cnf
+ See https://www.openssl.org/docs/man1.1.1/man5/config.html#Engine-Configuration-Module
+ and https://openwrt.org/docs/techref/hardware/cryptographic.hardware.accelerators
+ The engine_id is "devcrypto"
+
+Package: libopenssl1.1
+Version: 1.1.1d-2
+Depends: libc
+Provides: libopenssl
+License: OpenSSL
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1099722
+Filename: libopenssl1.1_1.1.1d-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1089487
+SHA256sum: 18daa9f43883b7c9e0af0aba7a7aae31d618035d6c18ad8a633d4cc74b8a73d6
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL shared libraries, needed by other programs.
+
+Package: libreadline8
+Version: 8.0-1
+Depends: libc, libncursesw6
+Provides: libreadline
+License: GPL-3.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 119473
+Filename: libreadline8_8.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 119314
+SHA256sum: 6de18f2ac878e5cb3f92595d406e1b343051fd4a9ac7eb0f72e2b1022addf332
+Description:  The Readline library provides a set of functions for use by applications
+ that allow users to edit command lines as they are typed in. Both Emacs
+ and vi editing modes are available. The Readline library includes
+ additional functions to maintain a list of previously-entered command
+ lines, to recall and perhaps reedit those lines, and perform csh-like
+ history expansion on previous commands.
+
+Package: libsmartcols1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libsmartcols
+License: GPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 84608
+Filename: libsmartcols1_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 85137
+SHA256sum: 54fa54f50760a5bfc569788ff25d3a49729729997a0d5b1ff0eec87461f740ed
+Description:  The smartcols library is used to print tables and trees in a pretty way.
+
+Package: libuuid1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libuuid
+License: GPL-2.0
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11272
+Filename: libuuid1_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 12203
+SHA256sum: 53dc36c4e7e9cac0a5d683dd99f6162107967b3e92cff707ee35a0b76b4636ff
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logger
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 14184
+Filename: logger_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14954
+SHA256sum: 0ce8491636cceb8fd2a106b2a237df76e9d9125f4acd77b7ee00682b2d592157
+Description:  logger makes entries in the system log, it provides a shell command interface
+ to the syslog system log module
+
+Package: look
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3479
+Filename: look_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4241
+SHA256sum: 75c54d52f90c0d89b5df2d560055a0f9de93e345c0e4906134717b2e3d3a17f6
+Description:  look utility displays any lines in file which contain string
+
+Package: losetup
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 35827
+Filename: losetup_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 36667
+SHA256sum: 4cc7a0f437f3fe4036dc50cf433b16eca1d6ba1e051fc4ee33e7a637aa6b90bd
+Description:  losetup is used to associate loop devices with regular files or block devices,
+ to detach loop devices and to query the status of a loop device
+
+Package: lsblk
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 40126
+Filename: lsblk_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 40985
+SHA256sum: ca699a4f235397fd3a9eb21f6615f54318b8095f6d95001be31a4c794a53410d
+Description:  lsblk lists information about all or the specified block devices
+
+Package: lscpu
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 29780
+Filename: lscpu_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 30460
+SHA256sum: 888c442f63355b14aa6c4e234e8650106bf3a70aedf885717fdb5d61b33e0dd2
+Description:  lscpu displays information about the CPU architecture
+
+Package: luci-app-chinadns
+Version: 1.6.2-1
+Depends: libc, ChinaDNS
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1643
+Filename: luci-app-chinadns_1.6.2-1_all.ipk
+Size: 2527
+SHA256sum: 0e2e89e050f4956e22ef7ca2f9883ed99a2df727747bc209990978b0a86832d7
+Description:  LuCI Support for ChinaDNS.
+
+Package: luci-app-dns-forwarder
+Version: 1.6.2-1
+Depends: libc, dns-forwarder
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1349
+Filename: luci-app-dns-forwarder_1.6.2-1_all.ipk
+Size: 2250
+SHA256sum: e3b80d6931f8e2c26182ff5c97dbbd261afe2c3fb7e5b2a204c2f2a94d4ccade
+Description:  LuCI Support for Dns-Forwarder.
+
+Package: luci-app-openclash
+Version: 0.36.6-beta
+Depends: libc, iptables, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, jsonfilter, ca-certificates
+Section: opt
+Architecture: all
+Installed-Size: 2840036
+Filename: luci-app-openclash_0.36.6-beta_all.ipk
+Size: 2660482
+SHA256sum: 7dc13cd455eef778b7cf50b9a42fc3619db5db216fe9498f637702d912ace4b1
+Description:  A LuCI support for clash
+
+Package: luci-app-redsocks2
+Version: 1.6.2-1
+Depends: libc, redsocks2
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1530
+Filename: luci-app-redsocks2_1.6.2-1_all.ipk
+Size: 2407
+SHA256sum: 7026c80eaf12f2aae0939ff7d9b0989216021665809d4d70db604a5eecbd7d00
+Description:  LuCI Support for RedSocks2.
+
+Package: luci-app-shadowsocks-without-ipset
+Version: 1.9.1-1
+Depends: libc, iptables
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10294
+Filename: luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk
+Size: 11228
+SHA256sum: 4127ea02dee82cbb3419d525ae8e55fca8cf6e28af78454e1674f76c992a0662
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowsocks
+Version: 1.9.1-1
+Depends: libc, iptables, ipset
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10416
+Filename: luci-app-shadowsocks_1.9.1-1_all.ipk
+Size: 11342
+SHA256sum: 2b0489562692c4fb7b169e2e155dcebf131fb1ba48fe2694e0b3012308b8f2c4
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowvpn
+Version: 1.6.2-1
+Depends: libc, ShadowVPN
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1806
+Filename: luci-app-shadowvpn_1.6.2-1_all.ipk
+Size: 2689
+SHA256sum: 37ccf89c253a1eccf7530a4311ca3c151e6070ccc355463127102414028b15ee
+Description:  LuCI Support for ShadowVPN.
+
+Package: luci-app-smartdns-compat
+Version: 1.2019.28-1
+Depends: libc, luci-compat, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5368
+Filename: luci-app-smartdns-compat_1.2019.28-1_all.ipk
+Size: 6155
+SHA256sum: 96515440e01ef61f60922541219e83422605e32abb62d3f5621671de2abb18e5
+Description:  Provides Luci for smartdns
+
+Package: luci-app-smartdns
+Version: 1.2019.28-1
+Depends: libc, luci-base, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5196
+Filename: luci-app-smartdns_1.2019.28-1_all.ipk
+Size: 6011
+SHA256sum: 772880fd9a5948aa02077be3c97083e88090eaec78129f5acca358b0578a5b9f
+Description:  Provides Luci for smartdns
+
+Package: luci-app-v2ray
+Version: 1.5.3-1
+Depends: libc, jshn, luci-lib-jsonc, ip, ipset, iptables, iptables-mod-tproxy, resolveip, dnsmasq-full
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 84320
+Filename: luci-app-v2ray_1.5.3-1_all.ipk
+Size: 84274
+SHA256sum: 521d43e0a815b67d0c01b8a57fb25d97de74a144df1da1c1fe9e625d2e43837b
+Description:  LuCI support for V2Ray
+
+Package: luci-app-vlmcsd
+Version: 1.0.1-1
+Depends: libc, vlmcsd
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 1625
+Filename: luci-app-vlmcsd_1.0.1-1_all.ipk
+Size: 2472
+SHA256sum: 3c9a2087ac4fc70fed0057593da28446fbe1b83206361ed862b888534c7e1064
+Description:  This package contains LuCI configuration pages for openwrt-vlmcsd.
+
+Package: luci-i18n-smartdns-compat-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns-compat
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3205
+Filename: luci-i18n-smartdns-compat-zh-cn_1.2019.28-1_all.ipk
+Size: 4011
+SHA256sum: 9bb0d2271d61a9bec9611fc591c516eb4b19aa75d861a345ec236cf5d8b8d52a
+Description:  Translation for luci-app-smartdns-compat - 中文 (Chinese)
+
+Package: luci-i18n-smartdns-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3198
+Filename: luci-i18n-smartdns-zh-cn_1.2019.28-1_all.ipk
+Size: 4018
+SHA256sum: 53171f211d710c4f34ba2cf59266b7f89e00c7a7f4eb21847d4279bd329197a9
+Description:  Translation for luci-app-smartdns - 中文 (Chinese)
+
+Package: luci-i18n-v2ray-zh-cn
+Version: 1.5.3-1
+Depends: libc, luci-app-v2ray
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 5931
+Filename: luci-i18n-v2ray-zh-cn_1.5.3-1_all.ipk
+Size: 6711
+SHA256sum: a3d1fd71c3d73d8ad22c4858537fc8d0de63459f4c07933db2fa152f032568bf
+Description:  Translation for luci-app-v2ray - 
+
+Package: mbedtls-util
+Version: 2.16.4-1
+Depends: libc, libmbedtls12
+License: GPL-2.0+
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 7170
+Filename: mbedtls-util_2.16.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8029
+SHA256sum: b27014c47bedda773dc575370a53a173f277b619469ead5bb0e2a9c2868a86a4
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains mbedtls helper programs for private key and
+ CSR generation (gen_key, cert_req)
+
+Package: mcookie
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 10285
+Filename: mcookie_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 11069
+SHA256sum: 713ee6dc07eb5da630af5b320db06880cd61ff990d9f449e6d6e3554707bb342
+Description:  mcookie generates a 128-bit random hexadecimal number for use with the X
+ authority system
+
+Package: mount-utils
+Version: 2.34-1
+Depends: libc, librt, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 47755
+Filename: mount-utils_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 48130
+SHA256sum: 71d8c283976a582c822ffad155e7d8b0a769f0241b068029d62c70655aa90a69
+Description:  contains: mount, umount, findmnt
+
+Package: namei
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9066
+Filename: namei_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 9865
+SHA256sum: 228d1d2bed9e9269cb07ba4475ef46a982359b18dd6b7197105531e1f40f18e9
+Description:  namei uses its arguments as pathnames to any type of Unix file (symlinks,
+ files, directories, and so forth)
+
+Package: nsenter
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9498
+Filename: nsenter_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10297
+SHA256sum: 72749c978511a853b1f7b7775f778055c880bf56a610c074f5eef5b22007decd
+Description:  run program with namespaces of other processes
+
+Package: openssl-util
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, libopenssl-conf
+License: OpenSSL
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 247947
+Filename: openssl-util_1.1.1d-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 246231
+SHA256sum: ccf034baa84d420d1b0059ca87b43984f85cb14a838ba70c6e5dbcdf0c8b13ec
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL command-line utility.
+
+Package: partx-utils
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 40984
+Filename: partx-utils_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 41697
+SHA256sum: a5e673d019e44563be9d5816f06ebe742b560da8380fe58faafcc9fe72de0614
+Description:  contains partx, addpart, delpart
+
+Package: prlimit
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 10391
+Filename: prlimit_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 11173
+SHA256sum: 56fd35c4443f4867d5f29c8767fb4eab9e9aeb50f8d447cabe34e7672e18ae32
+Description:  Given a process id and one or more resources, prlimit tries to retrieve
+ and/or modify the limits.
+
+Package: rename
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4164
+Filename: rename_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4952
+SHA256sum: 1b70d60bf441839bab5f857797af817c67cd0156b1fc53f011ba8faf0635b5ec
+Description:  rename will rename the specified files by replacing the first occurrence of
+ expression in their name by replacement
+
+Package: script-utils
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 19460
+Filename: script-utils_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 20202
+SHA256sum: c1ad2accbb6532eb153847e63bd8d8ea927a20d25a3263caf992b4a3509c3a56
+Description:  contains: script, scriptreplay
+
+Package: setterm
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13402
+Filename: setterm_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14195
+SHA256sum: 7c43f62501b0ee9947598897cd9f770356cc505ff4b0c11f4e1f9413ffe78e4f
+Description:  setterm writes to standard output a character string that will invoke the
+ specified terminal capabilities
+
+Package: sfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libfdisk1, libsmartcols1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 45030
+Filename: sfdisk_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 45744
+SHA256sum: 92445a553d256d1d3b955e9f381db830911bb878dbfa9d27a024b2bc1190d587
+Description:  list the size of a partition, list the partitions on a device, check the
+ partitions on a device and repartition a device
+
+Package: shadowsocks-libev-server
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 61735
+Filename: shadowsocks-libev-server_3.3.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 62597
+SHA256sum: d9c5bcee71c0807f04bf403bb458ae6added27204baf5229e7d5e4612c97c5b4
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: shadowsocks-libev
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 159681
+Filename: shadowsocks-libev_3.3.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 160108
+SHA256sum: 193a77d364ca5e5b95b5fb34a74ee7d47d252bd5618628699d3cc5c6ed43f712
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: simple-obfs-server
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 29571
+Filename: simple-obfs-server_0.0.5-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 30378
+SHA256sum: 0d16b00c79757ef1b97628087480fcbdba3a5aab20873566b66e24d097d2a247
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: simple-obfs
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 27149
+Filename: simple-obfs_0.0.5-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 27899
+SHA256sum: 36bd407116755e595a85c915503c74876cd3742f2cd73ed940d6e21b6a26f044
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: smartdns
+Version: 1.2020.28-1
+Depends: libc, libpthread, libopenssl1.1
+License: GPL-3.0-or-later
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 72123
+Filename: smartdns_1.2020.28-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 72987
+SHA256sum: 35924f2d06a2bc6ca721f09a1f64cadc429aca5f6642fd01ad32fc030aedd158
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ get DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: swap-utils
+Version: 2.34-1
+Depends: libc, librt, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 37675
+Filename: swap-utils_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 38473
+SHA256sum: 374a524d1b1160fb92ac77a4469c0f80266d4dcdc0827bb4662f4a198dbc3e39
+Description:  contains: mkswap, swaplabel
+
+Package: terminfo
+Version: 6.1-5
+Depends: libc
+License: MIT
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 6234
+Filename: terminfo_6.1-5_arm_cortex-a7_neon-vfpv4.ipk
+Size: 6894
+SHA256sum: 34333e2da6af812bab064812784154c2702bdbcc2dca401a2e753c41cf8deac7
+Description:  Terminal Info Database (ncurses)
+
+Package: trojan
+Version: 1.14.0-1
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+License: GPL-3.0
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 1031078
+Filename: trojan_1.14.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 1031016
+SHA256sum: 1cdbe9d7ed33dd1760c9972be1def13defcaeb4a1fd81514d9fa88776a3520be
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: uclibcxx
+Version: 0.2.5-3
+Depends: libc
+License: LGPL-2.1-or-later
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 59514
+Filename: uclibcxx_0.2.5-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 59968
+SHA256sum: 0f7ffeb3a199fd157fe46fe15d2fc05035119e35b0617f0dd7a258c235ee17d4
+Description:  C++ library for embedded systems
+
+Package: unshare
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 11046
+Filename: unshare_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 11843
+SHA256sum: b5553251e40ec7bad35f49a7811f803c5aca20d3260d26f8f315ea28da4ab4de
+Description:  run programs with some namespaces unshared from parent
+
+Package: uuidd
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 12129
+Filename: uuidd_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13054
+SHA256sum: 8d0b676fddf001344b7ab2119ea18e7c4b1f71c1668abd138458c3b4742e9f60
+Description:  The uuidd daemon is used by the UUID library to generate universally unique
+ identifiers (UUIDs), especially time-based UUIDs, in a secure and
+ guaranteed-unique fashion, even in the face of large numbers of threads
+ running on different CPUs trying to grab UUIDs.
+
+Package: uuidgen
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3406
+Filename: uuidgen_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4286
+SHA256sum: 7935f34e76cd1851dee35290e17f93d7bcce36a91521c978183a58275a587440
+Description:  The uuidgen program creates (and prints) a new universally unique identifier
+ (UUID) using the libuuid library. The new UUID can reasonably be considered
+ unique among all UUIDs created on the local system, and among UUIDs created on
+ other systems in the past and in the future.
+
+Package: v2ray-core
+Version: 4.22.1-4
+Depends: libc, ca-certificates
+License: MIT
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13384352
+Filename: v2ray-core_4.22.1-4_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13296582
+SHA256sum: 84ac69817f238fe38ed804828b7fc1e323a25a782203caae60133de8c09d8c46
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ 
+ This package contains v2ray, v2ctl and v2ray-assets.
+
+Package: v2ray-plugin
+Version: 1.2.0-2
+Depends: libc
+License: MIT
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3904175
+Filename: v2ray-plugin_1.2.0-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3899017
+SHA256sum: 174419b2f4f5c1b15dbcf3b995387873fd08797ee36d0e9a6a1498fdbc9e3de7
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray
+
+Package: vlmcsd
+Version: svn1112-1
+Depends: libc, libpthread
+License: MIT
+Section: net
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 53432
+Filename: vlmcsd_svn1112-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 54030
+SHA256sum: fa371f5c4a6415986ddd823247ce2f0e31ed5160c2b37812adafb34865dc8a3f
+Description:  vlmcsd is a KMS Emulator in C.
+
+Package: wall
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9754
+Filename: wall_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 10560
+SHA256sum: f0a3f5dfd4394b394146e120e5634297cf0269fdf7822e9915b686e6e8b381f9
+Description:  wall sends a message to everybody logged in with their mesg permission
+ set to yes
+
+Package: whereis
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 8630
+Filename: whereis_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 9453
+SHA256sum: d30ff76070af7bc629f88e7a34c64b5e71d7d1c46a4e14558f5873f2e272f999
+Description:  whereis locates source/binary and manuals sections for specified files
+
+Package: wipefs
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 12359
+Filename: wipefs_2.34-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13171
+SHA256sum: 9ece7d9a40cc77f86cb23ec685bcec52dcba60411f5bf66ed0f7e7c78794acc5
+Description:  wipefs can erase filesystem, raid or partition table signatures (magic
+ strings) from the specified device to make the signature invisible for
+ libblkid.
+
+Package: zlib-dev
+Version: 1.2.11-3
+Depends: libc, zlib
+License: Zlib
+Section: devel
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 77243
+Filename: zlib-dev_1.2.11-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 77982
+SHA256sum: a6480222af3b3be1dfbf32ecdfa919ce4d60eb0b129b14a97ebfa5c649019116
+Description:  zlib is a lossless data-compression library.
+ This package includes the development support files.
+
+Package: zlib
+Version: 1.2.11-3
+Depends: libc
+License: Zlib
+Section: libs
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 41264
+Filename: zlib_1.2.11-3_arm_cortex-a7_neon-vfpv4.ipk
+Size: 42043
+SHA256sum: fb82327c91a6a4822b1c44ac113ba67748a7f30a09b3d24ba06fed399645c5bc
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+
