@@ -1,0 +1,1142 @@
+Package: ChinaDNS
+Version: 1.3.3-1
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 34726
+Filename: ChinaDNS_1.3.3-1_i386_pentium4.ipk
+Size: 34391
+SHA256sum: ea8479968549f50e30247ab5a30608fce0cd99275dd3141af7fcb8c7b911717d
+Description:  Protect yourself against DNS poisoning in China.
+
+Package: agetty
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 19660
+Filename: agetty_2.34-1_i386_pentium4.ipk
+Size: 20472
+SHA256sum: daac6905eb642f615d12a326ecbdf98aad1055aebc973152f087501835776378
+Description:  agetty opens a tty port, prompts for a login name and invokes the
+ /bin/login command
+
+Package: blkdiscard
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 8450
+Filename: blkdiscard_2.34-1_i386_pentium4.ipk
+Size: 9320
+SHA256sum: 2a3f40c86995a9f098ca90c2d56a1733429e07b5b45f7fe97f3ac2e0189b4e19
+Description:  The blkdiscard is used to discard device sectors. This is useful for
+ solid-state drivers (SSDs) and thinly-provisioned storage. Unlike fstrim,
+ this command is used directly on the block device.
+
+Package: blkid
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 36563
+Filename: blkid_2.34-1_i386_pentium4.ipk
+Size: 37337
+SHA256sum: e4615d6211ddb6283de6fe8a1a1c2128a2ff243be7da235f26345579f3894f27
+Description:  The blkid program is the command-line interface to working with the libblkid
+ library.
+
+Package: blockdev
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 17843
+Filename: blockdev_2.34-1_i386_pentium4.ipk
+Size: 18639
+SHA256sum: 33fb8ec7024b759570aac8dbca234be9f78543df1f1896c7f562dd583f8b23a8
+Description:  The blockdev program is the command-line interface to call block device ioctls.
+
+Package: bzip2
+Version: 1.0.8-1
+Depends: libc, libbz2-1.0
+License: bzip2-1.0.8
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 11199
+Filename: bzip2_1.0.8-1_i386_pentium4.ipk
+Size: 11976
+SHA256sum: cb7179b48fb5ce6a803aefc86b7214b0585d251b418b4d7937ec86c8994b9ba9
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This package provides the binary.
+
+Package: cal
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 20281
+Filename: cal_2.34-1_i386_pentium4.ipk
+Size: 21062
+SHA256sum: 20c463709625e2afcd771414706166590f038fbae178d8f5b42229d9640792ad
+Description:  cal displays a simple calendar
+
+Package: cfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libncurses6, libsmartcols1, libfdisk1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 30354
+Filename: cfdisk_2.34-1_i386_pentium4.ipk
+Size: 31081
+SHA256sum: ffd17d2e99c6b62364c9c750a33b7034ef61485e21222b712d0289b918f4ef99
+Description:  cfdisk is a curses-based program for partitioning any hard disk drive
+
+Package: dmesg
+Version: 2.34-1
+Depends: libc, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 21885
+Filename: dmesg_2.34-1_i386_pentium4.ipk
+Size: 22633
+SHA256sum: cecd6764866eb69d7c92d6d2bbf30a742221dc1758e8f402af4f49434f57534a
+Description:  dmesg  is used to examine or control the kernel ring buffer
+
+Package: dns-forwarder
+Version: 1.2.1-2
+Depends: libc
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 11430
+Filename: dns-forwarder_1.2.1-2_i386_pentium4.ipk
+Size: 12195
+SHA256sum: b43902ef6f5f517d5513104fe1e73f358dfbbe77a5c85e0ba0e86b7fd72339c4
+Description:  Forwarding DNS queries on TCP transport.
+
+Package: eject
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 23542
+Filename: eject_2.34-1_i386_pentium4.ipk
+Size: 24388
+SHA256sum: c67176defaa456dc6b35a250937dbedcbdbdc76114de7b92e49a2bba941f07c8
+Description:  eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ
+ or ZIP disk) to be ejected under software control.
+
+Package: fdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1, libfdisk1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 45649
+Filename: fdisk_2.34-1_i386_pentium4.ipk
+Size: 46444
+SHA256sum: 49dc28f3207b17db01610763df384f85b699d440d48aba106861f59fc3ea48a2
+Description:  a menu-driven program for creation and manipulation of partition tables
+
+Package: findfs
+Version: 2.34-1
+Depends: libc, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 2221
+Filename: findfs_2.34-1_i386_pentium4.ipk
+Size: 3026
+SHA256sum: 94fe1723e16bf7f7d9bc89a7133f7b30044056e246ea37811e72b2c945ee2c6a
+Description:  findfs will search the disks in the system looking for a filesystem which has
+ a label matching label or a UUID equal to uuid
+
+Package: flock
+Version: 2.34-1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/flock:/usr/bin/util-linux-flock
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 9239
+Filename: flock_2.34-1_i386_pentium4.ipk
+Size: 10054
+SHA256sum: 4c0a55f6995cd64f5abb5e552cc789d08774c204fffc562319e03f60d5915d0b
+Description:  manages flock locks from within shell scripts or the command line
+
+Package: fstrim
+Version: 2.34-1
+Depends: libc, libblkid1, libuuid1, libsmartcols1, libmount1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 20891
+Filename: fstrim_2.34-1_i386_pentium4.ipk
+Size: 21738
+SHA256sum: 8a190d75382491250166cff305d47fa55e7f020d3f2e6021e5fc130a13c53a52
+Description:  fstrim is used on a mounted filesystem to discard (or "trim") blocks
+ which are not in use by the filesystem.  This is useful for solid-
+ state drives (SSDs) and thinly-provisioned storage.
+
+Package: getopt
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 4254
+Filename: getopt_2.34-1_i386_pentium4.ipk
+Size: 5075
+SHA256sum: 544ec62bbc234da8e6aa5f4a7cb145075d1385b86e60f645089e9a85dff6d6ce
+Description:  getopt is used to break up (parse) options in command lines for easy parsing
+ by shell procedures, and to check for legal options
+
+Package: hwclock
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 30939
+Filename: hwclock_2.34-1_i386_pentium4.ipk
+Size: 31646
+SHA256sum: e0b02e2cce1edcd5fe5140ed9723a06ed9eed850b75a29d01925846cad5ae460
+Description:  hwclock is a tool for accessing the Hardware Clock
+
+Package: iconv
+Version: 1.11.1-4
+Depends: libc, libiconv-full2, libcharset1
+License: LGPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 10690
+Filename: iconv_1.11.1-4_i386_pentium4.ipk
+Size: 11433
+SHA256sum: f021a33c6da4661e0a4f12b49eb036da91bbfdb1cd76b2438745c07a20d39bd3
+Description:  Character set conversion utility
+
+Package: libblkid1
+Version: 2.34-1
+Depends: libc, libuuid1
+Provides: libblkid
+License: GPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 122035
+Filename: libblkid1_2.34-1_i386_pentium4.ipk
+Size: 122904
+SHA256sum: a656ce6d33468c8a90df925e93c09e3ce638f5e07a74afb152bb80b1eea58e52
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libbz2-1.0
+Version: 1.0.8-1
+Depends: libc
+Provides: libbz2
+License: bzip2-1.0.8
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 23173
+Filename: libbz2-1.0_1.0.8-1_i386_pentium4.ipk
+Size: 23936
+SHA256sum: 740636066e157c408b822ab9b884b34457369aaa621c2e0848efe17629db95c6
+Description:  bzip2 is a freely available, patent free, high-quality
+ data compressor. This packages provides libbz2 library.
+
+Package: libcharset1
+Version: 1.11.1-4
+Depends: libc
+Provides: libcharset
+License: LGPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 2312
+Filename: libcharset1_1.11.1-4_i386_pentium4.ipk
+Size: 3055
+SHA256sum: 66ae7683cb0a6a26e14fff746bc81c8e8112d3e4182364c1a7a557ec19d7cfa5
+Description:  Character set conversion library
+
+Package: libfdisk1
+Version: 2.34-1
+Depends: libc, libuuid1, libblkid1
+Provides: libfdisk
+License: GPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 151791
+Filename: libfdisk1_2.34-1_i386_pentium4.ipk
+Size: 152571
+SHA256sum: 8d37b580f6f4201333b3ca09074bb3f9c93f9f759b0072666cbe32a6602dcb16
+Description:  The libfdisk library is used for manipulating with partition tables.
+
+Package: libiconv-full2
+Version: 1.11.1-4
+Depends: libc
+Provides: libiconv-full
+License: LGPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 12325
+Filename: libiconv-full2_1.11.1-4_i386_pentium4.ipk
+Size: 13060
+SHA256sum: b2fbbea309caae993374fa635e2a53f4579186bb7302dc07d7a2e2fe671c3207
+Description:  Character set conversion library
+
+Package: libiconv
+Version: 8
+Depends: libc
+License: LGPL-2.1
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 161
+Filename: libiconv_8_i386_pentium4.ipk
+Size: 898
+SHA256sum: d163af29d098a868e1f9b377facc5a53643ad9f2f013b561260deddf31a2bf54
+Description:  Tiny drop-in replacement for the GNU Character set conversion library
+
+Package: libintl-full8
+Version: 0.19.8.1-2
+Depends: libc
+Provides: libintl-full
+License: GPL-3.0+
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 15505
+Filename: libintl-full8_0.19.8.1-2_i386_pentium4.ipk
+Size: 16181
+SHA256sum: 0c710b0f57548960161812c42afc286e9b3db07e7e578f6a7f9253a9c4da5395
+Description:  GNU Internationalization library
+
+Package: libintl
+Version: 2
+Depends: libc
+License: FSFULLR
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 160
+Filename: libintl_2_i386_pentium4.ipk
+Size: 893
+SHA256sum: e854d414dafef3028d401d708dccf3f7ab934b1539e68139c35906fc3087e230
+Description:  Stub header for the GNU Internationalization library
+
+Package: libmbedtls12
+Version: 2.16.4-1
+Depends: libc
+Provides: libmbedtls
+License: GPL-2.0+
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 182047
+Filename: libmbedtls12_2.16.4-1_i386_pentium4.ipk
+Size: 182855
+SHA256sum: 9652b785a4a277d61ca2d9c9e4b084df68e16a3a7a74aebb108f2481186659be
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains the mbedtls library.
+
+Package: libmount1
+Version: 2.34-1
+Depends: libc, libblkid1
+Provides: libmount
+License: GPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 129229
+Filename: libmount1_2.34-1_i386_pentium4.ipk
+Size: 129918
+SHA256sum: 0ef328d0e06255508db590c90a2350a46d5d3371e4be2832f210775fc5d6d53f
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...
+
+Package: libncurses-dev
+Version: 6.1-5
+Depends: libc, zlib
+License: MIT
+Section: devel
+Architecture: i386_pentium4
+Installed-Size: 271618
+Filename: libncurses-dev_6.1-5_i386_pentium4.ipk
+Size: 270942
+SHA256sum: 45c3611aa7bfba2e679969610fcb8ce98a11226afaed149fb6617229d1e80f4d
+Description:  Development files for the ncurses library
+
+Package: libncurses6
+Version: 6.1-5
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+License: MIT
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 168646
+Filename: libncurses6_6.1-5_i386_pentium4.ipk
+Size: 167393
+SHA256sum: f22f12a2d85badd79a4ed53e493413bf831311376d0f20eff34de05d6acd9f5e
+Description:  Terminal handling library (Unicode)
+
+Package: libopenssl-conf
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1
+License: OpenSSL
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 4550
+Filename: libopenssl-conf_1.1.1d-2_i386_pentium4.ipk
+Size: 5495
+SHA256sum: 18311a9acf9e2c2497b297155149ca71145396ddc11bfe72bdbc53ff570f006d
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package installs the OpenSSL configuration file /etc/ssl/openssl.cnf.
+
+Package: libopenssl-devcrypto
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, kmod-cryptodev, libopenssl-conf
+License: OpenSSL
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 10211
+Filename: libopenssl-devcrypto_1.1.1d-2_i386_pentium4.ipk
+Size: 11142
+SHA256sum: cd0459a01ed39691346dcac0c4ca3fe820d6458ed17d900a89b3d5026a87669f
+Description:  This package adds an engine that enables hardware acceleration
+ through the /dev/crypto kernel interface.
+ To use it, you need to configure the engine in /etc/ssl/openssl.cnf
+ See https://www.openssl.org/docs/man1.1.1/man5/config.html#Engine-Configuration-Module
+ and https://openwrt.org/docs/techref/hardware/cryptographic.hardware.accelerators
+ The engine_id is "devcrypto"
+
+Package: libopenssl-padlock
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, kmod-crypto-hw-padlock, libopenssl-conf
+License: OpenSSL
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 8414
+Filename: libopenssl-padlock_1.1.1d-2_i386_pentium4.ipk
+Size: 9348
+SHA256sum: f154d55199e4b10f3d0da6507f76040ec7fe64bf146bd6134379ad53fa937add
+Description:  This package adds an engine that enables VIA Padlock hardware acceleration.
+ To use it, you need to configure it in /etc/ssl/openssl.cnf.
+ See https://www.openssl.org/docs/man1.1.1/man5/config.html#Engine-Configuration-Module
+ and https://openwrt.org/docs/techref/hardware/cryptographic.hardware.accelerators
+ The engine_id is "padlock"
+
+Package: libopenssl1.1
+Version: 1.1.1d-2
+Depends: libc
+Provides: libopenssl
+License: OpenSSL
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 1405301
+Filename: libopenssl1.1_1.1.1d-2_i386_pentium4.ipk
+Size: 1395806
+SHA256sum: c445e5a103bef57c65da231ab770a5c29f9c5fa43a5bed1a48801513662f6026
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL shared libraries, needed by other programs.
+
+Package: libreadline8
+Version: 8.0-1
+Depends: libc, libncursesw6
+Provides: libreadline
+License: GPL-3.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 121503
+Filename: libreadline8_8.0-1_i386_pentium4.ipk
+Size: 121706
+SHA256sum: 9225bd16e2db85d30bb1427914538331b4d8cc5f4cb94f973569750d0ca6b898
+Description:  The Readline library provides a set of functions for use by applications
+ that allow users to edit command lines as they are typed in. Both Emacs
+ and vi editing modes are available. The Readline library includes
+ additional functions to maintain a list of previously-entered command
+ lines, to recall and perhaps reedit those lines, and perform csh-like
+ history expansion on previous commands.
+
+Package: libsmartcols1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libsmartcols
+License: GPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 81807
+Filename: libsmartcols1_2.34-1_i386_pentium4.ipk
+Size: 82607
+SHA256sum: f3789d30583e976b6d43ae2c2e90095ab69592c489eb1bcac7619c10a3a50fb1
+Description:  The smartcols library is used to print tables and trees in a pretty way.
+
+Package: libuuid1
+Version: 2.34-1
+Depends: libc, librt
+Provides: libuuid
+License: GPL-2.0
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 10555
+Filename: libuuid1_2.34-1_i386_pentium4.ipk
+Size: 11499
+SHA256sum: 5c6c06b472b7ed66f8673e3d2f8079d61b9e391a4fa956a63f85bd4c463e2519
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logger
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 14495
+Filename: logger_2.34-1_i386_pentium4.ipk
+Size: 15281
+SHA256sum: ad7716c9d8a4d1abb0ef05dbfb135446d577e508f5902056844cb4cd43de2bf2
+Description:  logger makes entries in the system log, it provides a shell command interface
+ to the syslog system log module
+
+Package: look
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 3320
+Filename: look_2.34-1_i386_pentium4.ipk
+Size: 4092
+SHA256sum: ab603c96979e65e8b8f0170b1ec3e4a2ae5d8ac768fa95131a432714b7b13021
+Description:  look utility displays any lines in file which contain string
+
+Package: losetup
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 34369
+Filename: losetup_2.34-1_i386_pentium4.ipk
+Size: 35260
+SHA256sum: cb6b07b81010df346b97900acc7af1471d3f2772891d5bf4b4a86dafcdc0cc80
+Description:  losetup is used to associate loop devices with regular files or block devices,
+ to detach loop devices and to query the status of a loop device
+
+Package: lsblk
+Version: 2.34-1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 38211
+Filename: lsblk_2.34-1_i386_pentium4.ipk
+Size: 39042
+SHA256sum: f60a6045a4b211bc7d2ece1d390a1788eddf562a65e318045c6e5519aeb3e6b0
+Description:  lsblk lists information about all or the specified block devices
+
+Package: lscpu
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 29651
+Filename: lscpu_2.34-1_i386_pentium4.ipk
+Size: 30384
+SHA256sum: 32dd0a237ea55850665ea1eb91dabf4bd14bbdfdc92562d9fef5ee382665bed7
+Description:  lscpu displays information about the CPU architecture
+
+Package: luci-app-chinadns
+Version: 1.6.2-1
+Depends: libc, ChinaDNS
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1643
+Filename: luci-app-chinadns_1.6.2-1_all.ipk
+Size: 2527
+SHA256sum: 0e2e89e050f4956e22ef7ca2f9883ed99a2df727747bc209990978b0a86832d7
+Description:  LuCI Support for ChinaDNS.
+
+Package: luci-app-dns-forwarder
+Version: 1.6.2-1
+Depends: libc, dns-forwarder
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1349
+Filename: luci-app-dns-forwarder_1.6.2-1_all.ipk
+Size: 2250
+SHA256sum: e3b80d6931f8e2c26182ff5c97dbbd261afe2c3fb7e5b2a204c2f2a94d4ccade
+Description:  LuCI Support for Dns-Forwarder.
+
+Package: luci-app-openclash
+Version: 0.36.6-beta
+Depends: libc, iptables, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, jsonfilter, ca-certificates
+Section: opt
+Architecture: all
+Installed-Size: 2840036
+Filename: luci-app-openclash_0.36.6-beta_all.ipk
+Size: 2660482
+SHA256sum: 7dc13cd455eef778b7cf50b9a42fc3619db5db216fe9498f637702d912ace4b1
+Description:  A LuCI support for clash
+
+Package: luci-app-redsocks2
+Version: 1.6.2-1
+Depends: libc, redsocks2
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1530
+Filename: luci-app-redsocks2_1.6.2-1_all.ipk
+Size: 2407
+SHA256sum: 7026c80eaf12f2aae0939ff7d9b0989216021665809d4d70db604a5eecbd7d00
+Description:  LuCI Support for RedSocks2.
+
+Package: luci-app-shadowsocks-without-ipset
+Version: 1.9.1-1
+Depends: libc, iptables
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10294
+Filename: luci-app-shadowsocks-without-ipset_1.9.1-1_all.ipk
+Size: 11228
+SHA256sum: 4127ea02dee82cbb3419d525ae8e55fca8cf6e28af78454e1674f76c992a0662
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowsocks
+Version: 1.9.1-1
+Depends: libc, iptables, ipset
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 10416
+Filename: luci-app-shadowsocks_1.9.1-1_all.ipk
+Size: 11342
+SHA256sum: 2b0489562692c4fb7b169e2e155dcebf131fb1ba48fe2694e0b3012308b8f2c4
+Description:  LuCI Support for shadowsocks-libev.
+
+Package: luci-app-shadowvpn
+Version: 1.6.2-1
+Depends: libc, ShadowVPN
+License: GPLv3
+Section: luci
+Architecture: all
+Installed-Size: 1806
+Filename: luci-app-shadowvpn_1.6.2-1_all.ipk
+Size: 2689
+SHA256sum: 37ccf89c253a1eccf7530a4311ca3c151e6070ccc355463127102414028b15ee
+Description:  LuCI Support for ShadowVPN.
+
+Package: luci-app-smartdns-compat
+Version: 1.2019.28-1
+Depends: libc, luci-compat, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5368
+Filename: luci-app-smartdns-compat_1.2019.28-1_all.ipk
+Size: 6155
+SHA256sum: 96515440e01ef61f60922541219e83422605e32abb62d3f5621671de2abb18e5
+Description:  Provides Luci for smartdns
+
+Package: luci-app-smartdns
+Version: 1.2019.28-1
+Depends: libc, luci-base, smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 5196
+Filename: luci-app-smartdns_1.2019.28-1_all.ipk
+Size: 6011
+SHA256sum: 772880fd9a5948aa02077be3c97083e88090eaec78129f5acca358b0578a5b9f
+Description:  Provides Luci for smartdns
+
+Package: luci-app-v2ray
+Version: 1.5.3-1
+Depends: libc, jshn, luci-lib-jsonc, ip, ipset, iptables, iptables-mod-tproxy, resolveip, dnsmasq-full
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 84320
+Filename: luci-app-v2ray_1.5.3-1_all.ipk
+Size: 84274
+SHA256sum: 521d43e0a815b67d0c01b8a57fb25d97de74a144df1da1c1fe9e625d2e43837b
+Description:  LuCI support for V2Ray
+
+Package: luci-app-vlmcsd
+Version: 1.0.1-1
+Depends: libc, vlmcsd
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 1625
+Filename: luci-app-vlmcsd_1.0.1-1_all.ipk
+Size: 2472
+SHA256sum: 3c9a2087ac4fc70fed0057593da28446fbe1b83206361ed862b888534c7e1064
+Description:  This package contains LuCI configuration pages for openwrt-vlmcsd.
+
+Package: luci-i18n-smartdns-compat-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns-compat
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3205
+Filename: luci-i18n-smartdns-compat-zh-cn_1.2019.28-1_all.ipk
+Size: 4011
+SHA256sum: 9bb0d2271d61a9bec9611fc591c516eb4b19aa75d861a345ec236cf5d8b8d52a
+Description:  Translation for luci-app-smartdns-compat - 中文 (Chinese)
+
+Package: luci-i18n-smartdns-zh-cn
+Version: 1.2019.28-1
+Depends: libc, luci-app-smartdns
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 3198
+Filename: luci-i18n-smartdns-zh-cn_1.2019.28-1_all.ipk
+Size: 4018
+SHA256sum: 53171f211d710c4f34ba2cf59266b7f89e00c7a7f4eb21847d4279bd329197a9
+Description:  Translation for luci-app-smartdns - 中文 (Chinese)
+
+Package: luci-i18n-v2ray-zh-cn
+Version: 1.5.3-1
+Depends: libc, luci-app-v2ray
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 5931
+Filename: luci-i18n-v2ray-zh-cn_1.5.3-1_all.ipk
+Size: 6711
+SHA256sum: a3d1fd71c3d73d8ad22c4858537fc8d0de63459f4c07933db2fa152f032568bf
+Description:  Translation for luci-app-v2ray - 
+
+Package: mbedtls-util
+Version: 2.16.4-1
+Depends: libc, libmbedtls12
+License: GPL-2.0+
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 6460
+Filename: mbedtls-util_2.16.4-1_i386_pentium4.ipk
+Size: 7308
+SHA256sum: bd4c93c555e0d4fce31da01f48e52a8ccf24ee29f57b060cf13ca1395829799d
+Description:  The aim of the mbedtls project is to provide a quality, open-source
+ cryptographic library written in C and targeted at embedded systems.
+ This package contains mbedtls helper programs for private key and
+ CSR generation (gen_key, cert_req)
+
+Package: mcookie
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 10195
+Filename: mcookie_2.34-1_i386_pentium4.ipk
+Size: 11002
+SHA256sum: a80cb3d3efbbd7074cfa93edb7a5da9cdb62b0a1fa58e7c2d6f5a7b7a0e1c7e0
+Description:  mcookie generates a 128-bit random hexadecimal number for use with the X
+ authority system
+
+Package: mount-utils
+Version: 2.34-1
+Depends: libc, librt, libmount1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 44598
+Filename: mount-utils_2.34-1_i386_pentium4.ipk
+Size: 45297
+SHA256sum: 29fa4020ef71385025ffa54a1a8045891461578233c4ae120846542d8c0cd7f3
+Description:  contains: mount, umount, findmnt
+
+Package: namei
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 9436
+Filename: namei_2.34-1_i386_pentium4.ipk
+Size: 10256
+SHA256sum: d05ab1e458e50a101bf465325e741146709774129b598396ff449833917f3f00
+Description:  namei uses its arguments as pathnames to any type of Unix file (symlinks,
+ files, directories, and so forth)
+
+Package: nsenter
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 9438
+Filename: nsenter_2.34-1_i386_pentium4.ipk
+Size: 10214
+SHA256sum: a19c1b6a020abdbe1a96c46d00308ab7d562eab7d3ab751f254423a81dcbb1a1
+Description:  run program with namespaces of other processes
+
+Package: openssl-util
+Version: 1.1.1d-2
+Depends: libc, libopenssl1.1, libopenssl-conf
+License: OpenSSL
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 240859
+Filename: openssl-util_1.1.1d-2_i386_pentium4.ipk
+Size: 241028
+SHA256sum: 39ad6f4bfe142e77895cd7f81d985c5b955549d7d3bc9b920d04db90232bc043
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL command-line utility.
+
+Package: partx-utils
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 39830
+Filename: partx-utils_2.34-1_i386_pentium4.ipk
+Size: 40609
+SHA256sum: 024cc1fb2746369c5cb85533b6addd76b250df0ce3ba27f4cccc11eaa1f5f132
+Description:  contains partx, addpart, delpart
+
+Package: prlimit
+Version: 2.34-1
+Depends: libc, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 10293
+Filename: prlimit_2.34-1_i386_pentium4.ipk
+Size: 11109
+SHA256sum: 2f52de439b93bca1873a5e1869fa81ba51905233bad7d5dc5b45755f7c6b279b
+Description:  Given a process id and one or more resources, prlimit tries to retrieve
+ and/or modify the limits.
+
+Package: rename
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 3971
+Filename: rename_2.34-1_i386_pentium4.ipk
+Size: 4767
+SHA256sum: 1dd16e2ddc6c8b6b0640db8381f135af353712ec619c047f90d3cdec4b5ef659
+Description:  rename will rename the specified files by replacing the first occurrence of
+ expression in their name by replacement
+
+Package: script-utils
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 18792
+Filename: script-utils_2.34-1_i386_pentium4.ipk
+Size: 19560
+SHA256sum: 97a9784fe2e4cd0c8e3a6eb01e9e2dac518d3b03b338d0e38689814448846b48
+Description:  contains: script, scriptreplay
+
+Package: setterm
+Version: 2.34-1
+Depends: libc, libncurses6
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 12891
+Filename: setterm_2.34-1_i386_pentium4.ipk
+Size: 13704
+SHA256sum: d574ba0db2a9645d0e675f6ce65b67dcd80b97e5a9cf614aa616669be2007a75
+Description:  setterm writes to standard output a character string that will invoke the
+ specified terminal capabilities
+
+Package: sfdisk
+Version: 2.34-1
+Depends: libc, libblkid1, libfdisk1, libsmartcols1, libncursesw6
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 42606
+Filename: sfdisk_2.34-1_i386_pentium4.ipk
+Size: 43427
+SHA256sum: e90df52cc631a8e4e1f479169f65f48e2857ce20fdb28aaaea33df84e4e2d505
+Description:  list the size of a partition, list the partitions on a device, check the
+ partitions on a device and repartition a device
+
+Package: shadowsocks-libev-server
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 59363
+Filename: shadowsocks-libev-server_3.3.4-1_i386_pentium4.ipk
+Size: 60247
+SHA256sum: c764c74d5f830a52d845b3f03ac5af1be7c4cc23c773eba5eede5f31b9f16338
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: shadowsocks-libev
+Version: 3.3.4-1
+Depends: libc, libpthread, libev, libpcre, libcares, libsodium, libmbedtls12
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 154875
+Filename: shadowsocks-libev_3.3.4-1_i386_pentium4.ipk
+Size: 155711
+SHA256sum: f17df166a2de8f3c6a014d4a207f6580ea8315f809f2aa743781914b63fc03a6
+Description:  Shadowsocks-libev is a lightweight secured socks5 proxy for embedded devices and low end boxes.
+
+Package: simple-obfs-server
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 29059
+Filename: simple-obfs-server_0.0.5-4_i386_pentium4.ipk
+Size: 29836
+SHA256sum: b9c36ce4312370deb52c8f2578b5417fc275102a84c7ec842a21fbf043a22b3f
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: simple-obfs
+Version: 0.0.5-4
+Depends: libc, libpthread, libev
+License: GPLv3
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 27505
+Filename: simple-obfs_0.0.5-4_i386_pentium4.ipk
+Size: 28244
+SHA256sum: 5c430872325bf5c901d7f10e5356584b57740ce3d2c9b7f0b5810c28d3168177
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: smartdns
+Version: 1.2020.28-1
+Depends: libc, libpthread, libopenssl1.1
+License: GPL-3.0-or-later
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 68098
+Filename: smartdns_1.2020.28-1_i386_pentium4.ipk
+Size: 69092
+SHA256sum: 6a507badbec321a946defc4e6c606048f368273eea291b8e828467ac07e84e17
+Description:  SmartDNS is a local DNS server which accepts DNS query requests from local network clients,
+ get DNS query results from multiple upstream DNS servers concurrently, and returns the fastest IP to clients.
+ Unlike dnsmasq's all-servers, smartdns returns the fastest IP. 
+
+Package: swap-utils
+Version: 2.34-1
+Depends: libc, librt, libblkid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 35867
+Filename: swap-utils_2.34-1_i386_pentium4.ipk
+Size: 36701
+SHA256sum: 78519a2b6e721ff157770a5ebd6972122a12af86eec6381a4b90a28535c61278
+Description:  contains: mkswap, swaplabel
+
+Package: terminfo
+Version: 6.1-5
+Depends: libc
+License: MIT
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 6234
+Filename: terminfo_6.1-5_i386_pentium4.ipk
+Size: 6887
+SHA256sum: 423fdc0c9a48c424002d9a2b08b08913dc6db368cf04c175d6ac6a950970beea
+Description:  Terminal Info Database (ncurses)
+
+Package: trojan
+Version: 1.14.0-1
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+License: GPL-3.0
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 1253449
+Filename: trojan_1.14.0-1_i386_pentium4.ipk
+Size: 1253348
+SHA256sum: af2db18391c3ae9cf0eb1b43d083e8e6e6ae5b356bcf455bfb4b20c199d2b355
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: uclibcxx
+Version: 0.2.5-3
+Depends: libc
+License: LGPL-2.1-or-later
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 64622
+Filename: uclibcxx_0.2.5-3_i386_pentium4.ipk
+Size: 65287
+SHA256sum: 8ef119a7d0c4cac3dcd1e519d318438be030fd041829ea29f7d18603be473eab
+Description:  C++ library for embedded systems
+
+Package: unshare
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 10960
+Filename: unshare_2.34-1_i386_pentium4.ipk
+Size: 11769
+SHA256sum: 81659bd18785f6a924556469ae2064cf4b9555e45340e2cc9895a1262fbbffcc
+Description:  run programs with some namespaces unshared from parent
+
+Package: uuidd
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 12038
+Filename: uuidd_2.34-1_i386_pentium4.ipk
+Size: 12927
+SHA256sum: 37e6e6380e21d418ead1cdb943bf7a6e3fd1a3718e7a3ccdcb77467df5a62154
+Description:  The uuidd daemon is used by the UUID library to generate universally unique
+ identifiers (UUIDs), especially time-based UUIDs, in a secure and
+ guaranteed-unique fashion, even in the face of large numbers of threads
+ running on different CPUs trying to grab UUIDs.
+
+Package: uuidgen
+Version: 2.34-1
+Depends: libc, libuuid1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 3166
+Filename: uuidgen_2.34-1_i386_pentium4.ipk
+Size: 4058
+SHA256sum: a3acd6213ab609cc974ff2b2ff1ac5cdc02b847957e05a1e71ef003a78b6b20d
+Description:  The uuidgen program creates (and prints) a new universally unique identifier
+ (UUID) using the libuuid library. The new UUID can reasonably be considered
+ unique among all UUIDs created on the local system, and among UUIDs created on
+ other systems in the past and in the future.
+
+Package: v2ray-core
+Version: 4.22.1-4
+Depends: libc, ca-certificates
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 13687048
+Filename: v2ray-core_4.22.1-4_i386_pentium4.ipk
+Size: 13596159
+SHA256sum: 0a94aedd11cbea3a49c8801228fee54049209c73c9e5feec9c892e3dc95d6de3
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ 
+ This package contains v2ray, v2ctl and v2ray-assets.
+
+Package: v2ray-plugin
+Version: 1.2.0-2
+Depends: libc
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4011454
+Filename: v2ray-plugin_1.2.0-2_i386_pentium4.ipk
+Size: 4005144
+SHA256sum: 7c09ea7a40069e671d483fe2ee73e26a3173f4fc82d5ec8de08b354656cec8ce
+Description:  Yet another SIP003 plugin for shadowsocks, based on v2ray
+
+Package: vlmcsd
+Version: svn1112-1
+Depends: libc, libpthread
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 47927
+Filename: vlmcsd_svn1112-1_i386_pentium4.ipk
+Size: 48673
+SHA256sum: d065dce57e73c880b9e1156529ddcb59ccb10698ac9b0ce8356c765709fa1f14
+Description:  vlmcsd is a KMS Emulator in C.
+
+Package: wall
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 9596
+Filename: wall_2.34-1_i386_pentium4.ipk
+Size: 10402
+SHA256sum: 7535a77833d6ea244479bc85102e84303ece79954d44684785acd030eb11889d
+Description:  wall sends a message to everybody logged in with their mesg permission
+ set to yes
+
+Package: whereis
+Version: 2.34-1
+Depends: libc, librt
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 7843
+Filename: whereis_2.34-1_i386_pentium4.ipk
+Size: 8636
+SHA256sum: 4916facccfd15ef79e50300addd816cb5c31cb4e55d23914cf804dba3968729e
+Description:  whereis locates source/binary and manuals sections for specified files
+
+Package: wipefs
+Version: 2.34-1
+Depends: libc, libblkid1, libsmartcols1
+License: GPL-2.0
+Section: utils
+Architecture: i386_pentium4
+Installed-Size: 12251
+Filename: wipefs_2.34-1_i386_pentium4.ipk
+Size: 13052
+SHA256sum: 9c3c4fb3d16b63fd266dc57dbb3708f7bce6192807ba3a2e767e8068c9425e0b
+Description:  wipefs can erase filesystem, raid or partition table signatures (magic
+ strings) from the specified device to make the signature invisible for
+ libblkid.
+
+Package: zlib-dev
+Version: 1.2.11-3
+Depends: libc, zlib
+License: Zlib
+Section: devel
+Architecture: i386_pentium4
+Installed-Size: 77829
+Filename: zlib-dev_1.2.11-3_i386_pentium4.ipk
+Size: 78674
+SHA256sum: ca49cffd633ecfe79a35bee1ec3b84040d3ab5994631968f0992f37921e6091d
+Description:  zlib is a lossless data-compression library.
+ This package includes the development support files.
+
+Package: zlib
+Version: 1.2.11-3
+Depends: libc
+License: Zlib
+Section: libs
+Architecture: i386_pentium4
+Installed-Size: 40127
+Filename: zlib_1.2.11-3_i386_pentium4.ipk
+Size: 40858
+SHA256sum: 2123685bcc231c3fd2b300911bcc4e17dadd5ad62d687e4a3bf2ff5b35115504
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+
